@@ -1,0 +1,284 @@
+{
+    "Total Count": 200,
+    "False Positive Percentage": 17.0,
+    "Mismatches": [
+        {
+            "key": "3",
+            "text": "PKK'NIN PRAJESİ OLAN EŞBAŞKANLIK İBB'DE ÜSTÜ KAPALI UYGULANDIĞI ANLAŞILIYOR. KRIPTO YUNAN EKREM BERTARAF EDİLMELİ @RTErdogan @suleymansoylu https://t.co/eu1xgmUzxS",
+            "curse_word_list": [
+                "PKK"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "4",
+            "text": "@TamamHadiTamam @ekrem_imamoglu Ne kadar aptalsin keske ölsen",
+            "curse_word_list": [
+                "aptalsin"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "6",
+            "text": "@USER Gerizekalıyım. Yarın yazmışım tivite Cumartesi günü olacak o hiç uyarmıyon",
+            "curse_word_list": [
+                "Gerizekalıyım"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "16",
+            "text": "@USER Türk mitini organizesi ile bu patlamalar yapiliyordur.   İşid Türkiyenin taşeron örgütüdür.   İstanbul secimleri icin milliyetcilik havasina ihtiyac duydular.",
+            "curse_word_list": [
+                "İşid"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "18",
+            "text": "Kılıçdaroğlu; Bunlar diyor ki, ‘Silahı çekeceksin, vuracaksın orospucocukları ",
+            "curse_word_list": [
+                "orospucocukları"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "20",
+            "text": "@USER @USER Chp zihniyeti dün ne idiyse bugünde aynısı...AkParti dünyanın en güzel işini yapsa (yaptıda)ama biz buna iyi yaptı demeyiz diyen bir zerzevat topluluğu değişen bişey yok ama yarın bu değişirse çekeceğimiz var Bugün yapamadıklarını fitil fitil burnumuzdan çekerler Onuda söyleyim..",
+            "curse_word_list": [
+                "zerzevat topluluğu"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "21",
+            "text": "Trabzon'un Çaykara ilçesinin Rus ve Ermeni tohumlarından kurtuluşu (1918) Artvin'in Şavşat ilçesinin Gürcü işgalinden kurtuluşu (1921)🇹🇷",
+            "curse_word_list": [
+                "Rus ve Ermeni tohumlarından"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "23",
+            "text": "Saraydaki Diktatörün kollayıp,güdümündeki ve Saray’ın kuvayi milliye ilan ettiği çocuk kafası kesen,tecavüzcü müslüman çeteleri toplu toplu hızla etkisiz hale,şekle sokuluyorlar.Suriye,Rusya’dan sonra ABD savaş uçaklarıda ÖSO çetelerini bombalıyorlar.",
+            "curse_word_list": [
+                "çocuk kafası kesen",
+                "tecavüzcü"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "24",
+            "text": "Amk yunanı",
+            "curse_word_list": [
+                "Amk yunanı"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "33",
+            "text": "Boyun posun devrilsin inşallah prostatin karpuz kadar olurda donuna sığmaz inşallh,hemoroid olursunda götünu keserler insallah daha da birşey demem 😬😂😂",
+            "curse_word_list": [
+                "Boyun posun devrilsin",
+                "prostatin karpuz kadar olurda donuna sığmaz",
+                "inşallh,hemoroid olursunda götünu keserler"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "34",
+            "text": "@sputnik_TR Amma döndün koduğumun döneği",
+            "curse_word_list": [
+                "koduğumun döneği"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "37",
+            "text": "@USER Sen eski karını defalarca aldat üstüne sahip çıkma, sus payı üç kuruş para ver sustur yaralı halde bırak  sonra da git kendi kaybettiğin itibarını  onun hayatını mahvetmek pahasına eski karından evladının annesi üzerinden geri almaya kalk başbacısını siktiğim.İntİzar senden daha delikanlı, daha adam.",
+            "curse_word_list": [
+                "başbacısını siktiğim"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "40",
+            "text": "Söylüyecem senin albastı haini olduğunu  amın doğurduğu",
+            "curse_word_list": [
+                "haini",
+                "amın doğurduğu"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "43",
+            "text": "Gerçekçi olmayan sensin. Ukrayna'da defol, Putin.",
+            "curse_word_list": [
+                "defol"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "45",
+            "text": "Gavur tohumu çok bu memlekette ne yazık ki...",
+            "curse_word_list": [
+                "Gavur tohumu"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "47",
+            "text": "Kılıçdaroğlu'nun yanında durmayacak, destek olmayacaksınız. Abiye kıyafetini çıkarıp, sokağa inmeyeceksin, açığını yakalayınca amınakoyacaksın.",
+            "curse_word_list": [
+                "amınakoyacaksın"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "48",
+            "text": "Doncic dördüncü periyoda kalmadan beş faul yaparsın inşallah amin sonrada siktirolur gidersin",
+            "curse_word_list": [
+                "siktirolur"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "50",
+            "text": "Biz kimseyi kaybetmek için çaba sarfetmedik onlar kendi yaptıklarıyla bizim hayatımıza layık olmadıklarını gösterdiler. Sonra defolup gittiler",
+            "curse_word_list": [
+                "defolup"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "51",
+            "text": "Mesutun anasınının namusunu tıraş ederim",
+            "curse_word_list": [
+                "anasınının namusunu tıraş ederim"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "55",
+            "text": "Malum, taraf. En ufak bir rahatsızlığı durumunda nasıl rapor alırım da işe gitmem hesabını yaparken. Erdoğan'a, sesi gitmiş hâlâ duruyor, defol diyorlar.  Allah Erdoğan'a sağlık sıhhat versin",
+            "curse_word_list": [
+                "defol"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "57",
+            "text": "Amını dizini s2ktiğim simsarları sizi doğuran ananızı s2keyim anaları bınları doğurmamış s’çmış",
+            "curse_word_list": [
+                "Amını dizini s2ktiğim simsarları",
+                "ananızı s2keyim",
+                "s’çmış"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "58",
+            "text": "Türkiyeye sığınmak isteyen Türkmen olunca pasaport sor geri çevir ama yezidiyi,arabı,kürdü sorgusuz sualsiz al.Senin Türk düşmanlığına sokim",
+            "curse_word_list": [
+                "sokim"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "63",
+            "text": "az önce bi kız öyle bi yürüdü ki bana dondum kaldım AMK noluyor ya bana kendine gel felan dedim sonra..",
+            "curse_word_list": [
+                "AMK"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "67",
+            "text": "Boun beklersin. Odtü’nün yüz karası",
+            "curse_word_list": [
+                "yüz karası"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "68",
+            "text": "Arap seviciler diyor ki, Türkçe okunan dualar kabul olmaz, Valla biz hep Türkçe küfür ediyoruz; O'da günah değil o zaman... yarraj başlı piçler",
+            "curse_word_list": [
+                "yarraj başlı piçler"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "69",
+            "text": "Cem senin yazın daha geçen hafta ‘biz ne dersek köpek gibi itaat edeceksin’ dediğin için kaldırıldı. Senden üslup öğrenecek kimse yok bu gezegende",
+            "curse_word_list": [
+                "köpek gibi itaat edeceksin"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "79",
+            "text": "Bi sus bi defol git offf",
+            "curse_word_list": [
+                "bi defol git"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "80",
+            "text": "Niye Vanlı değilsin pis çinli cevap ver",
+            "curse_word_list": [
+                "pis çinli"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "83",
+            "text": "Ermeni işgalciler 29 yıl önce Hocalı'da yeryüzünün en vahşi katliamlarından birini gerçekleştirdiler. Azerbaycanlı kardeşimizden 613 kişi şehit oldu. Bu mazlumları asla unutmayacağız. Allah rahmet eylesin. Hocalı katliamını yapanların allah belasını versin",
+            "curse_word_list": [
+                "allah belasını versin"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "85",
+            "text": "İÇİMDE ÖYLE GÜZELSİN Kİ ONU KİRLETMEYECEĞİM SENİNLE allah allaaağğğğhhhh yarramınbası",
+            "curse_word_list": [
+                "yarramınbası"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "87",
+            "text": "Noluyo olum yunan yine mi kudurdu ne bu jetler?",
+            "curse_word_list": [
+                "kudurdu"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "91",
+            "text": "Ramazanda sırf bakıpta günaha girmeyelim diye memesiz kız paylaşan admin kral ya",
+            "curse_word_list": [
+                "memesiz kız"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "94",
+            "text": "ezhel için tüm Türkiye ayaklandı fakat aynı mesele @USER e yapılınca ezhelin sesi çıkmadı boyle bencil insanlarin bir gun gercek yuzu ortaya cikar \"rap\"in anlamini icmek, coşmak, şöhret, para sanan yeni nesil rapçiler sizi asla dinlemedik dinlemicez. salaksınız",
+            "curse_word_list": [
+                "salaksınız"
+            ],
+            "blacklist": []
+        },
+        {
+            "key": "97",
+            "text": "Arap sevici Diyanet Başkanımız... Kendi vatandaşlarına bir öğün yardım yapmayan Türkiye Diyanet Vakfı, IŞİD militanlarının toplandığı İdlip'te 100 konut yapacakmış...",
+            "curse_word_list": [
+                "IŞİD"
+            ],
+            "blacklist": []
+        }
+    ]
+}
