@@ -76,9 +76,9 @@ def compare_reports_1(curseword_data, results_data):
 
 
 curse_word_data = get_json("data/curse_word.json")
-results_data = get_json("results.json")
+results_data = get_json("data/results.json")
 
-report = compare_reports_1(curse_word_data, results_data)
+report = compare_reports(curse_word_data, results_data)
 
 with open("report.json", "w", encoding="utf-8") as file:
     json.dump(report, file, ensure_ascii=False, indent=4)

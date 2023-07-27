@@ -30,7 +30,7 @@ if __name__ == "__main__":
         results[key] = result[key]
 
     # Sonuçları JSON dosyasına kaydediyoruz
-    with open("results.json", "w", encoding="utf-8") as file:
+    with open("data/results.json", "w", encoding="utf-8") as file:
         json.dump(results, file, ensure_ascii=False, indent=4)
 
     # Web hizmetini çalıştırıyoruz

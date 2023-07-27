@@ -29,9 +29,11 @@
     },
     "4": {
         "text": "@TamamHadiTamam @ekrem_imamoglu Ne kadar aptalsin keske ölsen",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.17,
+        "BlackList": [
+            "aptalsin"
+        ]
     },
     "5": {
         "text": "@futbolarena Sizene amq piçleri sizene bu bizim kensi meselemiz s i z e n e?",
@@ -68,9 +70,10 @@
     "9": {
         "text": "amına koduğumun yahudileri",
         "Offensive": true,
-        "Score": 0.33,
+        "Score": 0.67,
         "BlackList": [
-            "amına"
+            "amına",
+            "koduğumun"
         ]
     },
     "10": {
@@ -138,9 +141,11 @@
     },
     "18": {
         "text": "Kılıçdaroğlu; Bunlar diyor ki, ‘Silahı çekeceksin, vuracaksın orospucocukları ",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.14,
+        "BlackList": [
+            "orospucocukları"
+        ]
     },
     "19": {
         "text": "@Cengogang yarra yedik. şimdi her gönderi altına (anlamak,şaşırmak,kafası karışmak) gibi yarrak kürek caps sallarlar. amını siktimin ergenleri",
@@ -260,15 +265,18 @@
     },
     "34": {
         "text": "@sputnik_TR Amma döndün koduğumun döneği",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.2,
+        "BlackList": [
+            "koduğumun"
+        ]
     },
     "35": {
         "text": "@MuhammedAliAkmn hadi bende sevmiyorum suriyelileri ama bu fotoğrafada o şekil yorum yapanın yedi ceddine sokim insan lan onlarda Allah rahmet eylesin",
         "Offensive": true,
-        "Score": 0.06,
+        "Score": 0.12,
         "BlackList": [
+            "sokim",
             "lan"
         ]
     },
@@ -321,17 +329,20 @@
     "42": {
         "text": "@OzanTufanFC @AjansMuhbir olmayan beynini siktiğimin salağı adam kendi keyfindenmi oraya girmiş gibi duruyor? belliki kısılmış orda çıkamıyor seni anana müjdeleyene sokim ya ben.",
         "Offensive": true,
-        "Score": 0.12,
+        "Score": 0.18,
         "BlackList": [
             "siktiğimin",
-            "anana"
+            "anana",
+            "sokim"
         ]
     },
     "43": {
         "text": "Gerçekçi olmayan sensin. Ukrayna'da defol, Putin.",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.2,
+        "BlackList": [
+            "defol"
+        ]
     },
     "44": {
         "text": "Makamda oturan şahıs o kadar millet şikayetçi, laf söylüyor dalga geçiyor bizimle 1500 arama var diyor.Kadrolu elemanlarınızsa bunlar Belayı bulmuşsunuz diyeyim.Yok bizde böyle diyorsanız,biz belayı bulmuşuz.En iyisi sizinle çalışan firmalardan uzak duralım. yoksa bunları sikerim",
@@ -357,15 +368,19 @@
     },
     "47": {
         "text": "Kılıçdaroğlu'nun yanında durmayacak, destek olmayacaksınız. Abiye kıyafetini çıkarıp, sokağa inmeyeceksin, açığını yakalayınca amınakoyacaksın.",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.08,
+        "BlackList": [
+            "amınakoyacaksın"
+        ]
     },
     "48": {
         "text": "Doncic dördüncü periyoda kalmadan beş faul yaparsın inşallah amin sonrada siktirolur gidersin",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.09,
+        "BlackList": [
+            "siktirolur"
+        ]
     },
     "49": {
         "text": "ulan amını götünü deştimin arapları dünyaya 1 tane mi faydaları yok amk. dünyayı geçtim futbolun da anasını sikiyorlar. orospu evlatları ne şlye gidiyonuz ne avrupaya ne topçu yetiştiriyosınuz anca elalemin topçularına domalırsınız amın çoxukları",
@@ -382,9 +397,11 @@
     },
     "50": {
         "text": "Biz kimseyi kaybetmek için çaba sarfetmedik onlar kendi yaptıklarıyla bizim hayatımıza layık olmadıklarını gösterdiler. Sonra defolup gittiler",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.08,
+        "BlackList": [
+            "defolup"
+        ]
     },
     "51": {
         "text": "Mesutun anasınının namusunu tıraş ederim",
@@ -421,29 +438,37 @@
     },
     "55": {
         "text": "Malum, taraf. En ufak bir rahatsızlığı durumunda nasıl rapor alırım da işe gitmem hesabını yaparken. Erdoğan'a, sesi gitmiş hâlâ duruyor, defol diyorlar.  Allah Erdoğan'a sağlık sıhhat versin",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.04,
+        "BlackList": [
+            "defol"
+        ]
     },
     "56": {
         "text": "eee kumarda kaybediyoruz aşkta zaten kazanamıyoruz bu amına koduğumun yüzü ne zaman gülecek",
         "Offensive": true,
-        "Score": 0.1,
+        "Score": 0.2,
         "BlackList": [
-            "amına"
+            "amına",
+            "koduğumun"
         ]
     },
     "57": {
         "text": "Amını dizini s2ktiğim simsarları sizi doğuran ananızı s2keyim anaları bınları doğurmamış s’çmış",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.18,
+        "BlackList": [
+            "s2ktiğim",
+            "s2keyim"
+        ]
     },
     "58": {
         "text": "Türkiyeye sığınmak isteyen Türkmen olunca pasaport sor geri çevir ama yezidiyi,arabı,kürdü sorgusuz sualsiz al.Senin Türk düşmanlığına sokim",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.06,
+        "BlackList": [
+            "sokim"
+        ]
     },
     "59": {
         "text": "Daha çok güç, daha çok kibir sonu Firavun ya da Nemrut gibi olacak haberi yok onun anasını s2m",
@@ -464,9 +489,10 @@
     "61": {
         "text": "Neyse amına koydular zaten sizinkilerin tek tük kaldı dağlarda yavaş yavaş asimile olursunuz sizde. Amına koduğumun yabani dağ domuzları. Hakkınız mağaralarda yaşamak ama şu devlet sizi bile adam yerine koyuyor",
         "Offensive": true,
-        "Score": 0.04,
+        "Score": 0.08,
         "BlackList": [
-            "amına"
+            "amına",
+            "koduğumun"
         ]
     },
     "62": {
@@ -515,9 +541,11 @@
     },
     "68": {
         "text": "Arap seviciler diyor ki, Türkçe okunan dualar kabul olmaz, Valla biz hep Türkçe küfür ediyoruz; O'da günah değil o zaman... yarraj başlı piçler",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.06,
+        "BlackList": [
+            "piçler"
+        ]
     },
     "69": {
         "text": "Cem senin yazın daha geçen hafta ‘biz ne dersek köpek gibi itaat edeceksin’ dediğin için kaldırıldı. Senden üslup öğrenecek kimse yok bu gezegende",
@@ -528,8 +556,9 @@
     "70": {
         "text": "Ne gazetecisi, süzme hain bu herif. Azıcık dikkat..!",
         "Offensive": true,
-        "Score": 0.14,
+        "Score": 0.29,
         "BlackList": [
+            "hain",
             "herif"
         ]
     },
@@ -562,8 +591,9 @@
     "74": {
         "text": "Sünnetsiz selcuk bi defol git ya ülkemizden .moskavaya git putin in götünü yalarsin",
         "Offensive": true,
-        "Score": 0.08,
+        "Score": 0.17,
         "BlackList": [
+            "defol",
             "götünü"
         ]
     },
@@ -603,9 +633,11 @@
     },
     "79": {
         "text": "Bi sus bi defol git offf",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.17,
+        "BlackList": [
+            "defol"
+        ]
     },
     "80": {
         "text": "Niye Vanlı değilsin pis çinli cevap ver",
@@ -646,9 +678,11 @@
     },
     "85": {
         "text": "İÇİMDE ÖYLE GÜZELSİN Kİ ONU KİRLETMEYECEĞİM SENİNLE allah allaaağğğğhhhh yarramınbası",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.1,
+        "BlackList": [
+            "yarramınbası"
+        ]
     },
     "86": {
         "text": "4.5 ay sonra gel de kafanı ezeyim botlarımla amk mikrobu seni",
@@ -660,9 +694,11 @@
     },
     "87": {
         "text": "Noluyo olum yunan yine mi kudurdu ne bu jetler?",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.2,
+        "BlackList": [
+            "kudurdu"
+        ]
     },
     "88": {
         "text": "O hilekarlar her şeyi kılıfına uydurup haklıyı suçlu duruma düşürür. Bu konuda bu yüzden hiç ümidim yoktur maalesef. Kızıl diyoruz. baş dayınızı sikeyim",
@@ -715,9 +751,11 @@
     },
     "94": {
         "text": "ezhel için tüm Türkiye ayaklandı fakat aynı mesele @USER e yapılınca ezhelin sesi çıkmadı boyle bencil insanlarin bir gun gercek yuzu ortaya cikar \"rap\"in anlamini icmek, coşmak, şöhret, para sanan yeni nesil rapçiler sizi asla dinlemedik dinlemicez. salaksınız",
-        "Offensive": false,
-        "Score": 0,
-        "BlackList": []
+        "Offensive": true,
+        "Score": 0.03,
+        "BlackList": [
+            "salaksınız"
+        ]
     },
     "95": {
         "text": "Alayının amına koyim kafayı yedim evde Çinli görmeyeyim ters yatırıp düz sikicem andım olsun",
