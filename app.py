@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from kufur_net import KufurNet
+from kufurnet.kufur_net import KufurNet
 
 import uvicorn
 
