@@ -33,6 +33,7 @@ class KufurNet:
         }
 
     def get_comment_words(self, comment):
+        comment = comment.lower()
         comment = re.sub(r'[^\w\s]', '', comment)
         comment = comment.replace("  ", " ")
         words = comment.split(" ")
