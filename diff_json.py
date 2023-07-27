@@ -1,18 +1,11 @@
 import json
 
 
-def get_curse_word_json():
-    with open("data/curse_word.json", "r", encoding="utf-8") as file:
-        test_data = json.load(file)
+def get_json(json_path):
+    with open(json_path, "r", encoding="utf-8") as file:
+        data = json.load(file)
 
-    return test_data
-
-
-def get_results_json():
-    with open("results.json", "r", encoding="utf-8") as file:
-        test_data = json.load(file)
-
-    return test_data
+    return data
 
 
 def compare_reports(json_data1, json_data2):
@@ -51,8 +44,9 @@ def compare_reports(json_data1, json_data2):
         "Mismatches": mismatches
     }
 
-def compare_reports_1(curseword_data,results_data):
-    #Offensive değeri False olan ancak Curse_Word değeri True
+
+def compare_reports_1(curseword_data, results_data):
+    # Offensive değeri False olan ancak Curse_Word değeri True
     # Verileri karşılaştırmak için değişkenleri tanımlıyoruz
     false_positive = 0
     mismatches = []
@@ -81,12 +75,10 @@ def compare_reports_1(curseword_data,results_data):
     }
 
 
-
-curse_word_data = get_curse_word_json()
-results_data = get_results_json()
-
+curse_word_data = get_json("data/curse_word.json")
+results_data = get_json("results.json")
 
 report = compare_reports_1(curse_word_data, results_data)
-# Sonuçları JSON dosyasına kaydediyoruz
+
 with open("report.json", "w", encoding="utf-8") as file:
     json.dump(report, file, ensure_ascii=False, indent=4)
