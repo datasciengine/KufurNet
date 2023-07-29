@@ -33,14 +33,12 @@ class KufurNet:
         }
 
     def get_comment_words(self, comment):
+        comment = comment.lower()
         comment = re.sub(r'[^\w\s]', '', comment)
         comment = comment.replace("  ", " ")
         words = comment.split(" ")
         words = [word for word in words if len(word) > 1]
         return [word for word in words if word not in self.stop_words]
-
-    def get_json_comment(self,json_data,comment_id):
-        return json_data[comment_id]["Comment"]
 
     def get_swears_1(self, comment_data: dict):
         result = {}

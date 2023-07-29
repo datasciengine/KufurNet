@@ -21,7 +21,7 @@ def compare_reports(json_data1, json_data2):
         if json_data1[key]["Curse_Word"] and json_data2[key]["Offensive"]:
             curse_word_list1 = json_data1[key]["Curse_Word_list"]
             blacklist2 = json_data2[key]["BlackList"]
-            if len(curse_word_list1) != len(blacklist2) or set(curse_word_list1) != set(blacklist2):
+            if not set(curse_word_list1).issubset(set(blacklist2)):
                 mismatches.append({
                     "key": key,
                     "text": json_data1[key]["text"],

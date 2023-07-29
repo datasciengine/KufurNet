@@ -1,18 +1,8 @@
 {
-    "Total Count": 200,
-    "Offensive Correct Percentage": 73.5,
-    "Offensive Incorrect Percentage": 26.5,
+    "Total Count": 1000,
+    "Offensive Correct Percentage": 71.6,
+    "Offensive Incorrect Percentage": 28.4,
     "Mismatches": [
-        {
-            "key": "1",
-            "text": "Kendisi çok yetenekli olmasına rağmen şehinşahın kendinden daha yetenekli olduğunu savunması hidra benim için o noktada bitti aga göt yalayan bir tip başka bişi deil",
-            "curse_word_list": [
-                "göt yalayan "
-            ],
-            "blacklist": [
-                "göt"
-            ]
-        },
         {
             "key": "5",
             "text": "@futbolarena Sizene amq piçleri sizene bu bizim kensi meselemiz s i z e n e?",
@@ -22,6 +12,16 @@
             ],
             "blacklist": [
                 "amq"
+            ]
+        },
+        {
+            "key": "6",
+            "text": "@USER Gerizekalıyım. Yarın yazmışım tivite Cumartesi günü olacak o hiç uyarmıyon",
+            "curse_word_list": [
+                "Gerizekalıyım"
+            ],
+            "blacklist": [
+                "gerizekalıyım"
             ]
         },
         {
@@ -44,7 +44,8 @@
             "key": "8",
             "text": "@omurgedik @hacikodernegi @GencHaciko Way amına kodugumun veletler bız bıle karantınaya dayanamıyoruz bu hayvanı kafese kapatanı sıkmek lazım",
             "curse_word_list": [
-                "amına kodugumun",
+                "amına",
+                "kodugumun",
                 "sıkmek"
             ],
             "blacklist": [
@@ -52,21 +53,11 @@
             ]
         },
         {
-            "key": "9",
-            "text": "amına koduğumun yahudileri",
-            "curse_word_list": [
-                "amına koduğumun"
-            ],
-            "blacklist": [
-                "amına",
-                "koduğumun"
-            ]
-        },
-        {
             "key": "10",
             "text": "@hzaristofanes @HainGeceIer @ConflictTR İşte amini dağa taşa vurup sktiğimin cahili anlamazsın tabi. Dönemin genelkurmay başkanı ve Erbakan'ın planı Kıbrıs'ın tamamıydı. Ecevit harekat planını sızdırdı ve operasyonu erken bitiren çomarın tekidir",
             "curse_word_list": [
-                "amini dağa taşa vurup sktiğimin",
+                "amini",
+                "sktiğimin",
                 "çomarın"
             ],
             "blacklist": [
@@ -78,7 +69,6 @@
             "text": "Ulkenin icine siciliyor  2 aydir resmen tecavuze ugruyoruz Kimse birsey yapamiyor  Cunku hastaliga dogru tespit edemezseniz dogru onlemi alamazsiniz  Eknomik ve sosyal verilerle kafaniza gore yalan yanlis bilgileri aciklarsaniz  Elelamin 2 yahudisi gelir ulkenin amq kor...",
             "curse_word_list": [
                 "siciliyor",
-                "tecavuze ugruyoruz",
                 "amq kor..."
             ],
             "blacklist": [
@@ -86,34 +76,20 @@
             ]
         },
         {
-            "key": "14",
-            "text": "@lhanahinkaya92 @cengizalgan Ayrıca akpnin sata sata bitiremediği kurumları kim yaptı amk cahili ? Heykelr verilen paraları sen melih gökçek e sor.",
+            "key": "16",
+            "text": "@USER Türk mitini organizesi ile bu patlamalar yapiliyordur.   İşid Türkiyenin taşeron örgütüdür.   İstanbul secimleri icin milliyetcilik havasina ihtiyac duydular.",
             "curse_word_list": [
-                "amk cahili"
+                "İşid"
             ],
             "blacklist": [
-                "amk"
-            ]
-        },
-        {
-            "key": "15",
-            "text": "@maz_maz5 @mhrsnck @omer__osmanoglu Ya kes boş yapmayı aq ergeni. Senin yaşın kadar ben ft izledim. Ne bok olduğunu senden babandan fazla biliyorum. Hadi siktir git",
-            "curse_word_list": [
-                "Ya kes boş yapmayı aq",
-                "bok",
-                "siktir git"
-            ],
-            "blacklist": [
-                "aq",
-                "bok",
-                "siktir"
+                "işid"
             ]
         },
         {
             "key": "17",
             "text": "@USER Amınakodumun çocuğu gerizekalı amcık o kızın otizmliye benzer bir hali var mı",
             "curse_word_list": [
-                "Amınakodumun çocuğu",
+                "Amınakodumun",
                 "gerizekalı",
                 "amcık"
             ],
@@ -123,61 +99,13 @@
             ]
         },
         {
-            "key": "19",
-            "text": "@Cengogang yarra yedik. şimdi her gönderi altına (anlamak,şaşırmak,kafası karışmak) gibi yarrak kürek caps sallarlar. amını siktimin ergenleri",
+            "key": "24",
+            "text": "Amk yunanı",
             "curse_word_list": [
-                "yarra yedik",
-                "yarrak kürek",
-                "amını siktimin ergenleri"
+                "Amk"
             ],
             "blacklist": [
-                "yarra",
-                "yarrak",
-                "amını",
-                "siktimin"
-            ]
-        },
-        {
-            "key": "27",
-            "text": "@cihan133456 @Ertugrullllllll masum, pkklı olmayan insan olan Kürtleri korumaya çalışmasaydı TSK alayınız ananızın amını görmüştünüz.",
-            "curse_word_list": [
-                "ananızın amını"
-            ],
-            "blacklist": [
-                "ananızın",
-                "amını"
-            ]
-        },
-        {
-            "key": "28",
-            "text": "@USER Böyle saçmalık görmedim nasıl bir dünyada yaşıyoruz bence bu insanlar kafayı yemiş hepsi yarak kafalı",
-            "curse_word_list": [
-                "yarak kafalı"
-            ],
-            "blacklist": [
-                "yarak"
-            ]
-        },
-        {
-            "key": "29",
-            "text": "Allah yoksa kurban bayramı nasıl var amq ateistleri",
-            "curse_word_list": [
-                "amq ateistleri"
-            ],
-            "blacklist": [
-                "amq"
-            ]
-        },
-        {
-            "key": "30",
-            "text": "Ya arkadaş bir hastaliktan ve bir yalan haberden medya sizi ne cabuk kariştiriyor ulan fatih terim var başimizda neyin derdindesin8z giden olursa fatih hoca gonderir ozan konusu boktan muhabbet serdar hata yaptiysa fatih hoca en iysini bilir akilli davranin...",
-            "curse_word_list": [
-                "ulan",
-                "boktan muhabbet"
-            ],
-            "blacklist": [
-                "ulan",
-                "boktan"
+                "amk"
             ]
         },
         {
@@ -186,12 +114,14 @@
             "curse_word_list": [
                 "sikeyim",
                 "Amk",
-                "özürlü pezevenki",
+                "pezevenki",
                 "Siktiğim"
             ],
             "blacklist": [
                 "sikeyim",
-                "pezevenki"
+                "amk",
+                "pezevenki",
+                "siktiğim"
             ]
         },
         {
@@ -206,38 +136,19 @@
             ]
         },
         {
-            "key": "34",
-            "text": "@sputnik_TR Amma döndün koduğumun döneği",
-            "curse_word_list": [
-                "koduğumun döneği"
-            ],
-            "blacklist": [
-                "koduğumun"
-            ]
-        },
-        {
-            "key": "35",
-            "text": "@MuhammedAliAkmn hadi bende sevmiyorum suriyelileri ama bu fotoğrafada o şekil yorum yapanın yedi ceddine sokim insan lan onlarda Allah rahmet eylesin",
-            "curse_word_list": [
-                "sokim"
-            ],
-            "blacklist": [
-                "sokim",
-                "lan"
-            ]
-        },
-        {
             "key": "38",
             "text": " Amini kainatini siktigimin suriyelisi, git anani sat olum baba meslegin amin cocugu. Ecdadini sikiyim senin.",
             "curse_word_list": [
-                "Amini kainatini siktigimin",
-                "anani sat",
-                "amin cocugu",
-                "Ecdadini sikiyim"
+                "Amini",
+                "siktigimin",
+                "amin",
+                "sikiyim"
             ],
             "blacklist": [
+                "amini",
                 "siktigimin",
                 "anani",
+                "ecdadini",
                 "sikiyim"
             ]
         },
@@ -247,16 +158,6 @@
             "curse_word_list": [
                 "amk",
                 "aqü"
-            ],
-            "blacklist": [
-                "amk"
-            ]
-        },
-        {
-            "key": "41",
-            "text": "amk arabı sus",
-            "curse_word_list": [
-                "amk arabı"
             ],
             "blacklist": [
                 "amk"
@@ -280,7 +181,8 @@
             "key": "46",
             "text": "Burada da bağırarak konuşuyor amını siktiğüm arapları",
             "curse_word_list": [
-                "amını siktiğüm"
+                "amını",
+                "siktiğüm"
             ],
             "blacklist": [
                 "amını"
@@ -290,12 +192,12 @@
             "key": "49",
             "text": "ulan amını götünü deştimin arapları dünyaya 1 tane mi faydaları yok amk. dünyayı geçtim futbolun da anasını sikiyorlar. orospu evlatları ne şlye gidiyonuz ne avrupaya ne topçu yetiştiriyosınuz anca elalemin topçularına domalırsınız amın çoxukları",
             "curse_word_list": [
-                "amını götünü deştimin",
+                "amını",
+                "götünü",
                 "amk",
-                "anasını sikiyorlar",
-                "orospu evlatları",
-                "domalırsınız",
-                "amın çoxukları"
+                "sikiyorlar",
+                "orospu",
+                "amın "
             ],
             "blacklist": [
                 "ulan",
@@ -361,6 +263,7 @@
                 "s’çmış"
             ],
             "blacklist": [
+                "amını",
                 "s2ktiğim",
                 "s2keyim"
             ]
@@ -384,7 +287,18 @@
             ],
             "blacklist": [
                 "amına",
+                "amına",
                 "koduğumun"
+            ]
+        },
+        {
+            "key": "63",
+            "text": "az önce bi kız öyle bi yürüdü ki bana dondum kaldım AMK noluyor ya bana kendine gel felan dedim sonra..",
+            "curse_word_list": [
+                "AMK"
+            ],
+            "blacklist": [
+                "amk"
             ]
         },
         {
@@ -436,6 +350,7 @@
                 "sikeyim"
             ],
             "blacklist": [
+                "amk",
                 "sikeyim"
             ]
         },
@@ -565,17 +480,6 @@
             ]
         },
         {
-            "key": "93",
-            "text": "Kanki böyle böyle desene bi ss alıp tivit atıcam :d kadınlar beni abaza tanımaya başladı aq :d",
-            "curse_word_list": [
-                "aq"
-            ],
-            "blacklist": [
-                "abaza",
-                "aq"
-            ]
-        },
-        {
             "key": "95",
             "text": "Alayının amına koyim kafayı yedim evde Çinli görmeyeyim ters yatırıp düz sikicem andım olsun",
             "curse_word_list": [
@@ -599,6 +503,16 @@
             ]
         },
         {
+            "key": "97",
+            "text": "Arap sevici Diyanet Başkanımız... Kendi vatandaşlarına bir öğün yardım yapmayan Türkiye Diyanet Vakfı, IŞİD militanlarının toplandığı İdlip'te 100 konut yapacakmış...",
+            "curse_word_list": [
+                "IŞİD"
+            ],
+            "blacklist": [
+                "işid"
+            ]
+        },
+        {
             "key": "98",
             "text": "Pkk nın aq. Bütün teröristlerin anasını avradını sikim. Aq piçleri dağ fareleri orrospu çocukları",
             "curse_word_list": [
@@ -610,9 +524,11 @@
                 "orrospu çocukları"
             ],
             "blacklist": [
+                "pkk",
                 "aq",
                 "anasını",
                 "sikim",
+                "aq",
                 "orrospu"
             ]
         },
@@ -624,6 +540,3052 @@
             ],
             "blacklist": [
                 "amq"
+            ]
+        },
+        {
+            "key": "203",
+            "text": "fatih terim, otoyola attırıp ölümüne sebep olduğu gariban sokak köpekleri ve bunu haber yaptığı için işinden, ekmeğinden ettiği gazeteci kız için bile cehennemin dibini hak eden şerefsiz bir alçaktır. koduğumun sonradan görmesi.",
+            "curse_word_list": [
+                "koduğumun",
+                "alçaktır",
+                "şerefsiz"
+            ],
+            "blacklist": [
+                "şerefsiz",
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "205",
+            "text": "ha bu amına koduğumun suriyelileri çıkacak ama ben cikamayacam sonra bu ibneler korona olup yoğun bakımı dolduracak ama ben olursam yatak bulamicam. vallahi ben sizin cemaziyulevvelinizi sikiyim",
+            "curse_word_list": [
+                "amına",
+                "koduğumun",
+                "ibneler",
+                "sikiyim"
+            ],
+            "blacklist": [
+                "amına",
+                "koduğumun",
+                "sikiyim"
+            ]
+        },
+        {
+            "key": "206",
+            "text": "yavşak suriyeli'ye bak mk, akplilerden daha iyi türkçe öğrenmiş. #muhammednurtutaklansın https://t.co/5i91utrirw",
+            "curse_word_list": [
+                "yavşak",
+                "mk"
+            ],
+            "blacklist": [
+                "yavşak"
+            ]
+        },
+        {
+            "key": "208",
+            "text": "#erkenseçimzaruridir saat satan afrikalı arkadaşlar istanbulda parti düzenlenmiş a.g böyle düzenin..afrikalisi ingilizi rus u almanı amini götü nü gezdiriyor bana her türlü baskı",
+            "curse_word_list": [
+                "a.g",
+                "amini",
+                "götü"
+            ],
+            "blacklist": [
+                "amini",
+                "götü"
+            ]
+        },
+        {
+            "key": "209",
+            "text": "evet çünkü sadece sokak köpeği kendi kendine üremiyor  koduğumun parayla köpek alan yaratıklar kısırlaştırmadan hayvanları sokağa salıyorlar merdiven altı ticarette cabası sokakta o kadar çok cins hayvan var ki şerefsizler zevkleri bitince atıyorlar dışarı",
+            "curse_word_list": [
+                "koduğumun",
+                "yaratıklar",
+                "şerefsizler"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "211",
+            "text": "@user chp kadar taş düşsün senin kafana arkadaş ne partiymiş yıllardır hazmedemediniz. sizin yarranızı sikkim",
+            "curse_word_list": [
+                "yarranızı",
+                "sikkim"
+            ],
+            "blacklist": [
+                "sikkim"
+            ]
+        },
+        {
+            "key": "216",
+            "text": "@jahreindota bunları ruhları çıkasıya kadar sikeyim amınakodugum amlarında arkeo çekerek dönen yarrak saldırı yapmak için evine atla gireyim amınakodugumun tipsiz pezevenki adamlar 1000 birime üst segment ürünler alıyo aq çalmak mış elimizden söküp aldınız bilerek amın evladları sizi",
+            "curse_word_list": [
+                "sikeyim",
+                "amınakodugum",
+                "amlarında",
+                "yarrak",
+                "pezevenki",
+                "aq",
+                "amın"
+            ],
+            "blacklist": [
+                "sikeyim",
+                "yarrak",
+                "pezevenki",
+                "aq"
+            ]
+        },
+        {
+            "key": "219",
+            "text": "@herkese_anti @sehrieroglu @aleynakalaycio1 @askokuskom @crabonep salmıyorum aq salagı salmıyorum adam rahatsız olsa tek tusla engeller cevap verme zahmetine girmez bak sen her twitinin altına aç köpek gibi geliyorsun seni s*kine takmıyor mesela alamadıgın etkileşimi aldım diye kudurma ergen derin",
+            "curse_word_list": [
+                "aq",
+                "salagı",
+                "s*kine",
+                "aç köpek",
+                "kudurma ergen"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "220",
+            "text": "dehşet görüntüler 😱 izlerken kanım dondu 😱  zihniyetine soktuklarım amk putperestleri",
+            "curse_word_list": [
+                "soktuklarım",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "221",
+            "text": "@ceyhunasirov şu mına koduğumun rusları her yerde bitiyor 😡",
+            "curse_word_list": [
+                "mına koduğumun",
+                "mına",
+                "koduğumun"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "223",
+            "text": "bunu düşünen, destekleyen, ihaleyi açan, açtıran, ihaleye giren, niyet eden, geyiği vurunca sevinen ve vurulduğuna sevinen, bunu normalleştiren kim varsa net orospu çocuğudur, bizler de kendilerini ihaleye açmak isteriz.",
+            "curse_word_list": [
+                "orospu çocuğudur",
+                "orospu"
+            ],
+            "blacklist": [
+                "orospu"
+            ]
+        },
+        {
+            "key": "224",
+            "text": "çocukların rızkını verdim bu kupona whopper menü istediler almadım amk ingilizleri adam gibi top oynayın çocuklar akşama ekmek arası aç bitir salam yemesin  https://t.co/i3inzouewc",
+            "curse_word_list": [
+                "amk",
+                "amk ingilizleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "225",
+            "text": "@kylejglen i̇ngilizlerin üstüsinden yalnızca türkler gelir. aq gavurları",
+            "curse_word_list": [
+                "aq gavurları",
+                "aq"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "229",
+            "text": "ezelin kör anasi koklayarak geçer o sınavı amq azmini sikim",
+            "curse_word_list": [
+                "amq",
+                "azmini sikim",
+                "sikim"
+            ],
+            "blacklist": [
+                "amq",
+                "sikim"
+            ]
+        },
+        {
+            "key": "230",
+            "text": "ülkenin kendi vatandaşları 1 çocuğa nasıl gelecek kuracağım diye kara kara düşünüyor amk arapları sığınmacı oldukları ülkede 10 tane doğuruyor bunlara acıyanın aklını sikiyim",
+            "curse_word_list": [
+                "amk",
+                "amk arapları",
+                "aklını sikiyim",
+                "sikiyim"
+            ],
+            "blacklist": [
+                "amk",
+                "sikiyim"
+            ]
+        },
+        {
+            "key": "231",
+            "text": "@khontkarice napim amk karısı soğuyosan sana özel kart mı çıkartıcam bi de",
+            "curse_word_list": [
+                "amk karısı",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "235",
+            "text": "pkk pyd ypg işid abd nin maşaları,tetikçileridir,kendi elini sürmez bunları salar üstümüze,abd ye yaptırım şarttır",
+            "curse_word_list": [
+                "pkk",
+                "pyd",
+                "ypg",
+                "işid"
+            ],
+            "blacklist": [
+                "pkk",
+                "işid"
+            ]
+        },
+        {
+            "key": "237",
+            "text": "pardon ama aylardır götü doğrulsun diye uğraştığım ilişkiyi benim sabrımın ayakta tuttuğunu daha nasıl belli edebilirim çok merak ediyorum?",
+            "curse_word_list": [
+                "götü doğrulsun"
+            ],
+            "blacklist": [
+                "götü"
+            ]
+        },
+        {
+            "key": "238",
+            "text": "kardeşlerimbilgi1 salaği bizi paylaşma amk bundan sonra aklin sira bizim üzerimizden takipçi kazandin srni takip edenlerin 50 bini asdorcu şu rezil sayfayi takip edenler varsa hemen çiksinlar ya",
+            "curse_word_list": [
+                "salaği",
+                "amk",
+                "asdorcu"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "241",
+            "text": "sözde balık yemek hafızaya iyi geliyor bu trabzonluların hepsi beyinsiz amk bunlarda ters etki yaratıyor...",
+            "curse_word_list": [
+                "trabzonluların hepsi beyinsiz amk",
+                "amk"
+            ],
+            "blacklist": [
+                "beyinsiz",
+                "amk"
+            ]
+        },
+        {
+            "key": "242",
+            "text": "twitter trendleri çökmüş durumda lisanation ve diğer saygılı fanbase ile ilgili atıp tutma beyinsiz amk malı",
+            "curse_word_list": [
+                "beyinsiz amk malı",
+                "amk"
+            ],
+            "blacklist": [
+                "beyinsiz",
+                "amk"
+            ]
+        },
+        {
+            "key": "243",
+            "text": "@asitadam amk salagı hani sen humanisttin..ukraynada rusya sivilleri katlediordu.azov taburunun sivil  soykırımını savunmanda ayrı level..",
+            "curse_word_list": [
+                "amk salagı",
+                "amk",
+                "salagı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "244",
+            "text": "@1racc amk arabları",
+            "curse_word_list": [
+                "amk arabları",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "245",
+            "text": "acaba bi ingiliz de türkçe bi kelimeyi doğru telaffuz etmek için sizin gibi yırtınıyor mu? yırtınmıyor, çünkü kendini sizin gibi ezik hissetmiyor. amk kompleksli yaratıkları sizi.",
+            "curse_word_list": [
+                "amk",
+                "ezik"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "247",
+            "text": "@user @user ağla kudur lan gavat 6222 çocuğu",
+            "curse_word_list": [
+                "kudur",
+                "gavat",
+                "lan"
+            ],
+            "blacklist": [
+                "lan",
+                "gavat"
+            ]
+        },
+        {
+            "key": "248",
+            "text": "amq gavurları ahaheuemjeşdmdjskheısbdlq  https://t.co/ts6tc6ujwi",
+            "curse_word_list": [
+                "amq",
+                "gavurları"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "250",
+            "text": "bora kes artik sesini bokunu cikardin amk her zikkima alinma ergen gibi  #survivor #survivorallstar2022",
+            "curse_word_list": [
+                "amk",
+                "zikkima",
+                "bokunu"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "253",
+            "text": "o rus bu çocukları bunlar anaları babaları belli olmayan yaratıklar amk",
+            "curse_word_list": [
+                "yaratıklar",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "258",
+            "text": "o.çocuğu,camiden çıkıyor küfür,yalan riya ile devam ediyorsun..senmi müslümansın talibanın karısı..senin gibi müslümanın ölüsünü sikeyim amk gürcü yahudisi..",
+            "curse_word_list": [
+                "o.çocuğu",
+                "sikeyim",
+                "amk"
+            ],
+            "blacklist": [
+                "sikeyim",
+                "amk"
+            ]
+        },
+        {
+            "key": "260",
+            "text": "@hakanbidur kızını 4ncü karı olarak arabın altına verirsin elhamdülillah hem lazım hem türk ama sizin gibi vatansiz piçleri koruyacak onlara karısını kızını vatanını peşkeş çekecek kadar orosbu çocuğu değiliz sen git şimdi o cem küçükle birlikte götünü siktir suri̇yeli̇ kardeşlerine amk malı",
+            "curse_word_list": [
+                "piçleri",
+                "peşkeş",
+                "orosbu",
+                "götünü",
+                "sliktir",
+                "amk"
+            ],
+            "blacklist": [
+                "götünü",
+                "siktir",
+                "amk"
+            ]
+        },
+        {
+            "key": "261",
+            "text": "sizin dinlediğiniz şarkıları sikim amk duygusuz pezevenkleri",
+            "curse_word_list": [
+                "sikim",
+                "amk",
+                "pezevenkleri"
+            ],
+            "blacklist": [
+                "sikim",
+                "amk"
+            ]
+        },
+        {
+            "key": "263",
+            "text": "@nftdusmani iyi sg kahvaltıda kuru fasülye sosis ye aq salağı",
+            "curse_word_list": [
+                "sg",
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "266",
+            "text": "sen türk olamazsın.! pislik ermeni dölü.",
+            "curse_word_list": [
+                "pislik",
+                "dölü"
+            ],
+            "blacklist": [
+                "dölü"
+            ]
+        },
+        {
+            "key": "267",
+            "text": "storylere bakıyorum da hiçbiriniz ne alkol içmeyi ne de ağzınızın tadını bilmiyosunuz amk dürzüleri",
+            "curse_word_list": [
+                "amk",
+                "dürzüleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "271",
+            "text": "kaybolun lan embesil sürüsü. avrupa doğalgaz bulamıyor bunlar bik bik bik bik bik bik bik amqpiçleri",
+            "curse_word_list": [
+                "lan",
+                "embesil",
+                "amqpiçleri"
+            ],
+            "blacklist": [
+                "lan",
+                "embesil"
+            ]
+        },
+        {
+            "key": "273",
+            "text": "marifetmis gibi yazıyor bide koduğumun varosu seni adam yerine koyanin ben amk",
+            "curse_word_list": [
+                "koduğumun",
+                "varosu",
+                "amk"
+            ],
+            "blacklist": [
+                "koduğumun",
+                "amk"
+            ]
+        },
+        {
+            "key": "274",
+            "text": "hayvanlari dusunecegine bayanlara kibar ol amina kodugumun cocugu",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "275",
+            "text": "espri anlayısına sokim senin amk salağı",
+            "curse_word_list": [
+                "sokim",
+                "amk",
+                "salağı"
+            ],
+            "blacklist": [
+                "sokim",
+                "amk"
+            ]
+        },
+        {
+            "key": "284",
+            "text": "keman çalan çocuğu geri koyun amq. s2yim böyle maçı @user",
+            "curse_word_list": [
+                "amq",
+                "s2yim"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "285",
+            "text": "bu ülke yol geçen hanımı amını siktiklerim, elini kolunu sallaya sallaya elin afganı surisi geliyor.",
+            "curse_word_list": [
+                "amını",
+                "siktiklerim"
+            ],
+            "blacklist": [
+                "amını"
+            ]
+        },
+        {
+            "key": "298",
+            "text": "sonra bizimkileri türklüğü yaysın diye kocacık taraflarına sürüyor dedemi   bu da diyo banane aq bana mı guvendiniz türklüğü yaymak 9 ay 10 ohooo diyo   çıkıyor dağa gavurları öldürüyor   osmanlı buna in lan dagdan ibinenin ziktigi diyor  bu da iniyor",
+            "curse_word_list": [
+                "aq",
+                "lan",
+                "ibinenin",
+                "ziktigi"
+            ],
+            "blacklist": [
+                "aq",
+                "lan",
+                "ibinenin"
+            ]
+        },
+        {
+            "key": "300",
+            "text": "sıcaktan dışarı çıkamıyorum mk mağara adamı gibi oldum güneş görünce ani tepkiler veriyorum yuh ya",
+            "curse_word_list": [
+                "mk"
+            ],
+            "blacklist": [
+                "yuh"
+            ]
+        },
+        {
+            "key": "301",
+            "text": "erkekler grubuna googledan bulup am attim berke salagi kendi amimi attim sanmis yazik cocuk korktu ama simdi ben de dusunuyorum biri bana amini atsa kalp krizi geciririm",
+            "curse_word_list": [
+                "am",
+                "salagi",
+                "amimi"
+            ],
+            "blacklist": [
+                "am",
+                "amini"
+            ]
+        },
+        {
+            "key": "303",
+            "text": "@cikletimben kadınları kapatmak yerine erkekleri açalım daha mantıklı. yıl olmuş 2022 bitmiyolar aq yobazları.",
+            "curse_word_list": [
+                "aq",
+                "yobazları"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "305",
+            "text": "atgmleri sanki ukraryna askeri değil de ezel'in kör anası ateşliyor. nasıl nişan alıyor bunlar amk,kendileri almadı diye herhalde",
+            "curse_word_list": [
+                "amk"
+            ],
+            "blacklist": [
+                "anası"
+            ]
+        },
+        {
+            "key": "306",
+            "text": "topunuzu üstüste koyar yine sikeriz amk arabi putperestleri  https://t.co/4kfmyb20pf",
+            "curse_word_list": [
+                "sikeriz",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "309",
+            "text": "@fransiz_kurd bu amk fransizlari sicmiuor mu orda tuvaletci eksiği yok mu beni alsana kadroya sikerim böyle işi ama",
+            "curse_word_list": [
+                "amk",
+                "sikerim",
+                "sicmiuor"
+            ],
+            "blacklist": [
+                "amk",
+                "sikerim"
+            ]
+        },
+        {
+            "key": "310",
+            "text": "@ulkesevda @s_gkck @ekrem_imamoglu ya ne kadar gerzek ve boş insanlarsınız,sahiplerinizin önünüze kemik gibi attığı ezber cümlelerle vakit geçiriyosunuz,sen beğenmiyosan git defolsana ordan",
+            "curse_word_list": [
+                "gerzek",
+                "defolsana"
+            ],
+            "blacklist": [
+                "gerzek"
+            ]
+        },
+        {
+            "key": "314",
+            "text": "@timeo095 dur seni de engelleyim profile bak amk sapığı",
+            "curse_word_list": [
+                "amk",
+                "sapığı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "317",
+            "text": "@belaettiler amk lavuğu..",
+            "curse_word_list": [
+                "amk",
+                "lavuğu"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "320",
+            "text": "kardeş lavuğu sevmiyor ve yüz vermiyorsun.reddettikten sonra da başkasını seviyor diye ezik diyorsun.bence kadınların en büyük problemi kendilerini allah zannetmeleri tapınalım mı napalım aq her biriniz bir tanrı olmuşsunuz.",
+            "curse_word_list": [
+                "lavuğu",
+                "aq"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "322",
+            "text": "@muhamme02881818 @khbaddies @indiryo asıl eşşek ppye löw koymandan belli amk salağı inanmış ali koçun getirebileceğine :d",
+            "curse_word_list": [
+                "eşşek",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "323",
+            "text": "@user sana yazıklar olsun lan adi şerefsiz. ulan rte hayatını bu ülkeye adamış , sen nasıl diyebiliyorsun bu kelimeleri !!! utanmaz şerrrreffizzz",
+            "curse_word_list": [
+                "adi",
+                "şerefsiz",
+                "ulan",
+                "şerrrreffizzz"
+            ],
+            "blacklist": [
+                "lan",
+                "şerefsiz",
+                "ulan"
+            ]
+        },
+        {
+            "key": "324",
+            "text": "allah belanızı versin amını kitabını siktiğimin piçleri bu nası iptal olur. senin yedi ceddiin  amııınu avradını sikekimm",
+            "curse_word_list": [
+                "amını",
+                "siktiğimin",
+                "piçleri",
+                "amııınu",
+                "sikekimm"
+            ],
+            "blacklist": [
+                "belanızı",
+                "amını",
+                "siktiğimin"
+            ]
+        },
+        {
+            "key": "329",
+            "text": "suan selden dolayi bazi insanlar hayatini kaybetmis bazi insanlar kaybolmus cikipda bazilari da diyorki zinadan fazla zina yapmasalarmis ulan allahsizlar siz kimsiniz lann bu laflari kullanlari babam siksunn hemii aq picleri aq gavurlari",
+            "curse_word_list": [
+                "lann",
+                "siksunn",
+                "aq",
+                "picleri",
+                "gavurlari"
+            ],
+            "blacklist": [
+                "ulan",
+                "aq",
+                "aq"
+            ]
+        },
+        {
+            "key": "330",
+            "text": "@ncmttnskc @cemmildon @eurovisn_turkey ok disapora ermenileri sayesinde hak etmedi̇kleri̇ birincilik için ülkeyi! kutluyorum (mutlu oldun mu aq)  https://t.co/4mi4lgomgt",
+            "curse_word_list": [
+                "aq)"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "331",
+            "text": "aq yakın tarih giriş bilgisi olanlar birli ki bu dönemde olduğu gibi zamanında insanları yağ kuyruğu denen muhabbete girenlere bu davarların anası babası oy atıyordu elli sene sonra evlatları bu döneme sövüp o dönemin türevlerine allah dicek",
+            "curse_word_list": [
+                "aq",
+                "davarların"
+            ],
+            "blacklist": [
+                "aq",
+                "anası"
+            ]
+        },
+        {
+            "key": "335",
+            "text": "herşeye eyv da o terörist piçi savunanın aklına sokim",
+            "curse_word_list": [
+                "piçi",
+                "sokim"
+            ],
+            "blacklist": [
+                "sokim"
+            ]
+        },
+        {
+            "key": "336",
+            "text": "@bjk_basketbol @basketsuperligi @icrypex tüm salon  ananın amına koyayım karakartal ile başladılar, beşiktaş’ın piçleri dönsün şaşkına ile devam ettiler,  öleceksiniz ananızın amını göreceksiniz diye bitirdiler.  i̇lk yarı bitti hala anons yapılmadı!  yazıklar olsun tetikçi hakemlerinize! @tbf",
+            "curse_word_list": [
+                "amına",
+                "piçleri",
+                "amını"
+            ],
+            "blacklist": [
+                "ananın",
+                "amına",
+                "koyayım",
+                "ananızın",
+                "amını"
+            ]
+        },
+        {
+            "key": "338",
+            "text": "@sunayildizoglu kendi pezevenkleri bile kıymetli aq.",
+            "curse_word_list": [
+                "pezevenkleri",
+                "aq."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "339",
+            "text": "@adamkazandi10 @victorie_7 aq salağı sizinle fikir tartışması falan mı yapılır söz bulamayınca ergen beteseci diyip aradan kaçıyorsunuz max yaptığınız şey bu",
+            "curse_word_list": [
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "341",
+            "text": "amsterdam alıp sahilde içmek istiyorum da amina kodugumun şehrinde sahil yok ev yolu gözüktü yine",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "344",
+            "text": "yani misal buse çok kibirli bi tip diyorsun karşıdaki ya siktir verse nefessiz sikersin diyor, adam o kadar abaza ki buse=seks olmuş onun için, sen buseyi eleştirmiyorsun seksi eleştiriyorsun onun gözünde",
+            "curse_word_list": [
+                "siktir",
+                "sikersin",
+                "abaza",
+                "buse=seks",
+                "seksi"
+            ],
+            "blacklist": [
+                "siktir",
+                "sikersin",
+                "abaza"
+            ]
+        },
+        {
+            "key": "352",
+            "text": "@hunlu_1 amk sapığı ya 😅 şaka gibiler bunlar dan medet uman var 🤦🤦🤦",
+            "curse_word_list": [
+                "amk",
+                "sapığı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "356",
+            "text": "@meral_aksener dogru milletimizin basi sagolsun hdpkk bir ol oldursun bicsin sonra bas sagolsun defol git biden in yanina aksener turkiyeyi vatani sattiniz",
+            "curse_word_list": [
+                "hdpkk",
+                "defol"
+            ],
+            "blacklist": [
+                "defol"
+            ]
+        },
+        {
+            "key": "358",
+            "text": "@yiitbarankuru1 @meftunsol olurum o ayrı da ppyi maymun sanan beynine sokim aq cahili. maymun senden çok daha iyi seçenek zaten",
+            "curse_word_list": [
+                "sokim",
+                "aq",
+                "cahili"
+            ],
+            "blacklist": [
+                "sokim",
+                "aq"
+            ]
+        },
+        {
+            "key": "364",
+            "text": "@user sen sor ama beni seni nasıl firlatmiski amindan aynen ananın amına benzemiş onun gibi yalak olmuşsun gelen geçen follow yapıyor gerçi senin babanda kim belli değil bende şüphelendim şimdi bak en son ben bellemiş tim ama böyle bir orospu çocuğu sadece benden olamaz.",
+            "curse_word_list": [
+                "amindan",
+                "amına",
+                "yalak",
+                "orospu"
+            ],
+            "blacklist": [
+                "ananın",
+                "amına",
+                "yalak",
+                "orospu"
+            ]
+        },
+        {
+            "key": "368",
+            "text": "@nara_queenmrv @surviwords sg amk salağı",
+            "curse_word_list": [
+                "sg",
+                "amk",
+                "salağı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "371",
+            "text": "@hypebilgi amına kodugumun afganı tek müslüman ülke türkiye mi lan",
+            "curse_word_list": [
+                "amına",
+                "kodugumun",
+                "lan"
+            ],
+            "blacklist": [
+                "amına",
+                "lan"
+            ]
+        },
+        {
+            "key": "373",
+            "text": "@egepola39737061 @gokturksancar @alinacikucuk üzerine gelen topu arka direğe çevirdi adam aq salağı sizin kadar futbol cahili ikinci kitle olmadığı için anlamaman normal",
+            "curse_word_list": [
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "379",
+            "text": "amk dürzüleri peçete diye bi şey var",
+            "curse_word_list": [
+                "amk",
+                "dürzüleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "381",
+            "text": "artvindeki orospu çocuğunun marifetmiş gibi verdigi poz. a. koduğumun meymenetsiz piçi.",
+            "curse_word_list": [
+                "orospu",
+                "koduğumun",
+                "piçi",
+                "meymenetsiz"
+            ],
+            "blacklist": [
+                "orospu",
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "384",
+            "text": "paralel evren demişiz amına koduğumun sıfatsızı beğendiğimiz karıyla hayal bile kurdurmayacaklar tipini siktiğim lol",
+            "curse_word_list": [
+                "amına",
+                "koduğumun",
+                "sıfatsızı",
+                "siktiğim"
+            ],
+            "blacklist": [
+                "amına",
+                "koduğumun",
+                "siktiğim"
+            ]
+        },
+        {
+            "key": "389",
+            "text": "@kasutays @denizbrlcesi2 @trkaybjk @emniyetgm  ulan küfür etmim diyorum. o.c olmak için zirvenin adayı oluyorsunuz. döl israfı zinalar.  amk putperestleri.",
+            "curse_word_list": [
+                "o.c",
+                "amk"
+            ],
+            "blacklist": [
+                "ulan",
+                "oc",
+                "amk"
+            ]
+        },
+        {
+            "key": "390",
+            "text": "brezilya'da tanıştığım lübnanlı milyarder abbas. \"nikahlı\" eşi olmamı istemişti (üstüme 2-3 tane kuma alır tabii o ayrı) yakışıklıydı da. hatta beni görmeye i̇stanbul'a dahi gelmişti de istemedim. *mına koduğumun arabı demeseydin be sarincan...",
+            "curse_word_list": [
+                "*mına"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "399",
+            "text": "@ankahabera yav bi sktr git büyükelçi 100 yıl önce biz kaç cephede savaştık biliyor musun ? savaştığın zannettiğin rusya ile sadece bir cephede kapıştık. ingilizi, yunanı, fransa'sı vs. 7 düvele kafa tuttuk aq. siz daha kendi topraklarınızı savunamıyor gidip abd ve avrupa dan dilenenin aq.",
+            "curse_word_list": [
+                "sktr",
+                "aq.",
+                "aq"
+            ],
+            "blacklist": [
+                "aq",
+                "aq"
+            ]
+        },
+        {
+            "key": "400",
+            "text": "@cinsellikicerir amk gotcu gavurlari",
+            "curse_word_list": [
+                "amk",
+                "gotcu",
+                "gavurlari"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "401",
+            "text": "spotifyda hakan altun dinliyorum uygulama bir sonraki şarkıda ben fero açıyor amk salağı beyinsiz aptal oç sence ben fero dinlemek istiyor gibi mi duruyorum",
+            "curse_word_list": [
+                "amk",
+                "salağı",
+                "beyinsiz",
+                "aptal",
+                "oç"
+            ],
+            "blacklist": [
+                "amk",
+                "beyinsiz",
+                "aptal",
+                "oç"
+            ]
+        },
+        {
+            "key": "405",
+            "text": "\"bu mahlallerde ki bagdadı ala şah-ı acem arz-ı rumu ede teshir abaza hem a köpek  sattınız iki soysuz bir olup hanlığı kimseyi etmedünüz bu işe mahrem a köpek  paymal eylediniz saltanatın ırzını hem yok yereoldı telef ol kadar adem a köpek\"",
+            "curse_word_list": [
+                "soysuz"
+            ],
+            "blacklist": [
+                "abaza"
+            ]
+        },
+        {
+            "key": "407",
+            "text": "@yukselodabasi kız evlatları bunların cariyeleri olmaktan kurtardıya mustafa kemal atatürk karın ağrıları ondan aq yobazlar ı",
+            "curse_word_list": [
+                "aq",
+                "yobazlar"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "413",
+            "text": "@futbolarena hay amq 40 yılın başı bayern'e 2.5 üst bastık olanlara bak. ulan nagelsman mısın nesin yanına sane'yi de al gidin wolsvagen'de amelelik yapın ag futbol cahili seni",
+            "curse_word_list": [
+                "amq",
+                "ulan",
+                "ag"
+            ],
+            "blacklist": [
+                "amq",
+                "ulan"
+            ]
+        },
+        {
+            "key": "415",
+            "text": "nerden girdik fantezi giyim işlerine aq sapığı gavatı ibnesi bitmiyor bir de bunlarla uğraşıyoruz",
+            "curse_word_list": [
+                "aq",
+                "sapığı",
+                "gavatı",
+                "ibnesi"
+            ],
+            "blacklist": [
+                "aq",
+                "ibnesi"
+            ]
+        },
+        {
+            "key": "416",
+            "text": "dedemle babam 2023'te tayyip seçilirse her şeyin düzeleceğine inanıyor. benim anlamadığım deniz anaları tomurcuklanma ile üremiyor muydu amk ben nasıl omurgalı memeli olmuşum lan?",
+            "curse_word_list": [
+                "amk",
+                "lan?"
+            ],
+            "blacklist": [
+                "amk",
+                "lan"
+            ]
+        },
+        {
+            "key": "423",
+            "text": "@maestroefo10 amk kürdü amını sıkeyım senın erdinin de amk forza bulut",
+            "curse_word_list": [
+                "amk",
+                "amını",
+                "sıkeyım",
+                "amk"
+            ],
+            "blacklist": [
+                "amk",
+                "amını",
+                "amk"
+            ]
+        },
+        {
+            "key": "428",
+            "text": "@jscawuhgkqgkay @akdemiiirr @pusholder atam nasıl acıttıysa canlarını 😂 aq salağı seni ya",
+            "curse_word_list": [
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "432",
+            "text": "muslumanlar soykirim yapmiyorsa yemen de suudi araplari napiyor amq dumbelekleri 🤬😡",
+            "curse_word_list": [
+                "amq",
+                "dumbelekleri"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "433",
+            "text": "aranızda tinder kullanıp bu profile denk gelen olursa, şikayet edebilir mi lütfen. ayrıca profili atana sesleniyorum hukukçu tipi mi var bende amına koduğum",
+            "curse_word_list": [
+                "amına",
+                "koduğum"
+            ],
+            "blacklist": [
+                "amına"
+            ]
+        },
+        {
+            "key": "436",
+            "text": "@user kim sikmek istemez ki böyle bir amı",
+            "curse_word_list": [
+                "sikmek",
+                "amı"
+            ],
+            "blacklist": [
+                "sikmek"
+            ]
+        },
+        {
+            "key": "437",
+            "text": "@ahmet_davutoglu 7 yıldır hergün yaşanıyor bunlar. şimdiye kadar nerdesinde şimdi vicdan yapıyorsun. suriyedeki bebeklerin kanı var senin ellerinde. stratejik derinlik aptallığınla ortadoğunun kana bulanmasını körükledin. sus ve defol!",
+            "curse_word_list": [
+                "defol!"
+            ],
+            "blacklist": [
+                "defol"
+            ]
+        },
+        {
+            "key": "439",
+            "text": "şu amına goduğumun sözlüğünde yüzlerce binlerce darbe goy goycusu var ya, sikeyim sizin zürriyetinizi. o kadar düşmüşsünüz ki darbeden medet umar hale gelmişsiniz götveren çocukları. darbe nedir neye mal olur haberiniz bile yok sizin piç kuruları...",
+            "curse_word_list": [
+                "amına",
+                "goduğumun",
+                "sikeyim",
+                "götveren",
+                "piç"
+            ],
+            "blacklist": [
+                "amına",
+                "sikeyim",
+                "götveren",
+                "mal",
+                "piç"
+            ]
+        },
+        {
+            "key": "447",
+            "text": "@khalilovagulsum #zelenskiy denilen o bas pezevenki gebertsinler olsun bitsinn aq ne uzatti bu rusya bu kdr komediidükkaninzelenskiy",
+            "curse_word_list": [
+                "pezevenki",
+                "gebertsinler",
+                "aq"
+            ],
+            "blacklist": [
+                "pezevenki",
+                "aq"
+            ]
+        },
+        {
+            "key": "448",
+            "text": "bu outlast vb. oyunlarda neden elimize taş-sopa bişe alıp bize saldıran lavukları öldüremiyoruz ki aq. 60 yaşındaki oklava gibi amcaya öldüm",
+            "curse_word_list": [
+                "lavukları",
+                "aq."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "453",
+            "text": "ss ve kerem ayrıldığında ağlayan 'keremle ayrılma' diyen as fanları şimdi keremle dalga geçip laf ediyor sksjsnmsnansns amk dönekleri",
+            "curse_word_list": [
+                "amk",
+                "dönekleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "460",
+            "text": "amk salağı",
+            "curse_word_list": [
+                "amk",
+                "salağı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "462",
+            "text": "@bvb aq pezevenkleri merhametsiz olsanıza ibneler 2 1 nedir",
+            "curse_word_list": [
+                "aq",
+                "pezevenkleri",
+                "ibneler"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "464",
+            "text": "bu vatanın ekmeğini yiyip ve halen chp diyorsanız sizde bir vatan hainisiniz .bu topraklarda pkk yandaşlarına ermeni tohumlarına yer yok. şehitlerin kanıyla boğulun inşallah😈😈😈 https://t.co/jnfotengxu",
+            "curse_word_list": [
+                "hainisiniz",
+                "pkk"
+            ],
+            "blacklist": [
+                "pkk"
+            ]
+        },
+        {
+            "key": "466",
+            "text": "@umutcan_emek @hirozaki2020 tamam en trader sensin amk lavuğu",
+            "curse_word_list": [
+                "amk",
+                "lavuğu"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "469",
+            "text": "@bunaltici31 adam seçiyor amina kodugumun karısı",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "470",
+            "text": "tweet guzel ama bayrampaşa semt mi amını siktigim dürzüsü @tuhafamasahici",
+            "curse_word_list": [
+                "amını",
+                "siktigim",
+                "dürzüsü"
+            ],
+            "blacklist": [
+                "amını"
+            ]
+        },
+        {
+            "key": "473",
+            "text": "ma(e)lpek rop vermiş nazmiye de beğenmiş öyle mi amk sılanın ödülünü paylasmadi bu a.ına koduğumun karısı nazmiye allah belani versin ucuz karı karakterini skim geversen de ölsende hep sılhal daima sılhal",
+            "curse_word_list": [
+                "amk",
+                "a.ına",
+                "koduğumun",
+                "belani",
+                "skim",
+                "geversen"
+            ],
+            "blacklist": [
+                "amk",
+                "koduğumun",
+                "skim"
+            ]
+        },
+        {
+            "key": "484",
+            "text": "@fbyasaminozu sahaya inmezseniz size de yazıklar olsun. yönetimin bi bok yapacağı yok bu şerefsiz düzene. bu şımarık hamsi piçleri ile orrospu çocuğu hakemler esaslı bi dersi hakettiler",
+            "curse_word_list": [
+                "bok",
+                "şerefsiz",
+                "piçleri",
+                "orrospu"
+            ],
+            "blacklist": [
+                "bok",
+                "şerefsiz",
+                "orrospu"
+            ]
+        },
+        {
+            "key": "486",
+            "text": "amk arabı da hiçbir sey yokmuş gibi zıkkımlanıyo.",
+            "curse_word_list": [
+                "amk",
+                "zıkkımlanıyo"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "487",
+            "text": "fethullahçı piç kurularının sözlük dahil birçok platformda yana yakıla tiyatro/senaryo algısı yaratmaya çalıştığını gözlemlediğim boka saran girişim.",
+            "curse_word_list": [
+                "fethullahçı",
+                "piç",
+                "boka"
+            ],
+            "blacklist": [
+                "piç",
+                "boka"
+            ]
+        },
+        {
+            "key": "491",
+            "text": "ölümlerden ölüm beğenemiyorum ne şekilde ölsem acaba mıhına koduğumun 2020sinde",
+            "curse_word_list": [
+                "mıhına",
+                "koduğumun"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "493",
+            "text": "@derindny sen kime çalışıyorsun ermeni tohumu kimliğini göster de bakalım aklınız fikriniz mideniz ölümüne recep tayyip erdoğan dünya sallanıyor bu troller dış güçlere çalışan deyyuzlar biz bir ölür bin diriliriz simdi defol burdan git",
+            "curse_word_list": [
+                "deyyuzlar",
+                "defol"
+            ],
+            "blacklist": [
+                "defol"
+            ]
+        },
+        {
+            "key": "495",
+            "text": "@kucukbayburtlu o heykel ananın taa amcığına girsin koduğumun müslümanı",
+            "curse_word_list": [
+                "amcığına",
+                "koduğumun"
+            ],
+            "blacklist": [
+                "ananın",
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "497",
+            "text": "kahpenin  götünü s.ktirmis tescilli pedofil subyanci ibne dinsiz kafir vatan haini darbeci ajan utanmaz ahlaksiz onursuz serefsiz namussuz orospu cocuklarinin götünü s.kmisler.azazil bile diyorki bunlar yoldan cikmis utanma bunlarda hic yok. bunlarin bircok yuzu var kafirler",
+            "curse_word_list": [
+                "götünü",
+                "s.ktirmis",
+                "ibne",
+                "kafir",
+                "haini",
+                "serefsiz",
+                "namussuz",
+                "orospu",
+                "s.kmisler.azazil",
+                "kafirler"
+            ],
+            "blacklist": [
+                "kahpenin",
+                "götünü",
+                "ibne",
+                "dinsiz",
+                "serefsiz",
+                "orospu",
+                "götünü"
+            ]
+        },
+        {
+            "key": "499",
+            "text": "@beauvoil sen kimsin de baskasini kucumsuyosun aq tipini sktigim salagi sktir git kapiya bacaya surtun aq senle mi ugrascam",
+            "curse_word_list": [
+                "aq",
+                "sktigim",
+                "salagi",
+                "sktir"
+            ],
+            "blacklist": [
+                "aq",
+                "aq"
+            ]
+        },
+        {
+            "key": "503",
+            "text": "@flood_zamani lan siktirin gidin amk pozitif sik kafaları.ülkenin anası dikildi millet açlıktan sınanıyor siz daha slak salak herşey yoluna girecek gibi millete boş motivasyon aşılıyorsunuz",
+            "curse_word_list": [
+                "lan",
+                "siktirin",
+                "amk",
+                "sik",
+                "slak",
+                "salak"
+            ],
+            "blacklist": [
+                "lan",
+                "amk",
+                "sik",
+                "anası",
+                "salak"
+            ]
+        },
+        {
+            "key": "506",
+            "text": "yalancı yağmacı hırsız tecavüzcü pedofili bedevi aşığı arap yalaması hiç bir siyasal i$l@mci kardeşim değildir",
+            "curse_word_list": [
+                "tecavüzcü",
+                "yağmacı",
+                "pedofili"
+            ],
+            "blacklist": [
+                "tecavüzcü"
+            ]
+        },
+        {
+            "key": "510",
+            "text": "@user sende kafa olsa 2750 lira kira vermezsin lan villa da mı oturuyorsun şükretsene kevaşe . kirayı devlet mi belirliyor beyinsiz işte chp zihniyeti ben sizin kökünüze tüküreyim",
+            "curse_word_list": [
+                "kevaşe",
+                "beyinsiz",
+                "tüküreyim"
+            ],
+            "blacklist": [
+                "lan",
+                "kevaşe",
+                "beyinsiz"
+            ]
+        },
+        {
+            "key": "511",
+            "text": "happy hallowen. amını yurdunu gibtimin gavurları heryere yazmış youtube ayrı facebooktaki oyunlarda ayrı ama merak etmesinler ramazanda grşcz",
+            "curse_word_list": [
+                "amını",
+                "gavurları"
+            ],
+            "blacklist": [
+                "amını"
+            ]
+        },
+        {
+            "key": "515",
+            "text": "@mehmeth15904061 he amk yok obamasıdır seloo piçi teröristir aksini iddia edende teröristir",
+            "curse_word_list": [
+                "amk",
+                "piçi"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "516",
+            "text": "bu amını astarını siktiğim suriyelileri kollamak için türkler defolsun giyen gavatlar adam olsun, suriyelileri suriye'de o kaçtıkları vatanlarına yerleştirsinler delikanlılarsa. bizi bu topraklardan alıkoyacak tek şey ölümdür, onda da toprağımıza gömülürüz zaten.",
+            "curse_word_list": [
+                "amını",
+                "siktiğim",
+                "defolsun",
+                "gavatlar"
+            ],
+            "blacklist": [
+                "amını",
+                "siktiğim"
+            ]
+        },
+        {
+            "key": "518",
+            "text": "@aykiricomtr sapık piçleri doldurdunuz ülkeye amq ülkenin sapığı, tecavüzcüsü yetmiyordu bir de dışarıdan üstüne para verip getiriyorsunuz.",
+            "curse_word_list": [
+                "piçleri",
+                "amq"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "519",
+            "text": "@can97550674 @haskologlu ya birader savunduğun 6lı masadaki davutoğlu ülkeye suriyelileri dolduran adam, babacan surilerin entegrasyonunu savunan bir adam sen ne anlatıyorsun aq? 6lı masa göndereceğiz diyebiliyor mu? bunu diyen iki parti memleket ve zafer.",
+            "curse_word_list": [
+                "aq?"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "520",
+            "text": "@kehf1mekselina @ekinbilir_156 @passgec o kadar çok koyduk ki sizde alıştınız gelip gidip koyun diyorsunuz 😂😂mevzu yalan söylemesi hani vardıya müftünün karısı chp lü bar işletmecisi çıktı 😂😉ha ondan dolayı diyoruz anladın kapiş amk dingili",
+            "curse_word_list": [
+                "dingili",
+                "dingili"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "522",
+            "text": "allah seni kahretsin allah seni perişan etsin çin😏 ettiğini çekesin amk devleti 😡 inşallah tüm putperestleri rezil ettiği gibi sizi de rezil edecektir rabbimiz#şakadeğilsoykırım",
+            "curse_word_list": [
+                "kahretsin",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "524",
+            "text": "@kurtgolgesi seni de satarasak bu iş tamam ülke kalkınır kodugumun dinsiz ingilizi",
+            "curse_word_list": [
+                "kodugumun"
+            ],
+            "blacklist": [
+                "dinsiz"
+            ]
+        },
+        {
+            "key": "527",
+            "text": "herkesin inandığı bir şey vardır bu a* koduğumun hayatında. benimkisi de sensin. ne yapayım...",
+            "curse_word_list": [
+                "a*",
+                "koduğumun"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "529",
+            "text": "koru ardayı, pamuklara sar, evine al vitrin süsü yap aq salağı",
+            "curse_word_list": [
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "530",
+            "text": "@user bu insanlara destek olmayanları iyi tanıyın iyi tanıyın ki bu ülkede kanın durmasını kim istemiyor görün    pkk ya hdpye tek kelime edemeyen zevatlar cumhurbaşkanına devlete hakarette iftirada geri durmuyorlar insanmısınız hee   @user @user @user",
+            "curse_word_list": [
+                "pkk",
+                "zevatlar"
+            ],
+            "blacklist": [
+                "pkk"
+            ]
+        },
+        {
+            "key": "535",
+            "text": "@speceoglu @ncy1907 bi sikktir git duz mantikla bakan amk cahili seni herif gram top oynamıyor takımı karıştırıyor hala ismi var diye tapiyorlar sizin gibi mal kafalarla isimiz daha var bizim 40 yil şampiyon olmamak mustehak",
+            "curse_word_list": [
+                "sikktir",
+                "amk",
+                "cahili"
+            ],
+            "blacklist": [
+                "amk",
+                "herif",
+                "mal"
+            ]
+        },
+        {
+            "key": "537",
+            "text": "karşımda biri hükümet savunsun artık patlıcam ya sikerim arkadaşlık öğretmen öğrenci akraba ilişkisini falan biri hükümet savunsun ölesiye vs atarım amq picleri ya",
+            "curse_word_list": [
+                "sikerim",
+                "amq",
+                "picleri"
+            ],
+            "blacklist": [
+                "sikerim",
+                "amq"
+            ]
+        },
+        {
+            "key": "538",
+            "text": "jungkook'un arabayı içkili kullandığı kanısına nereden vardınız amına koduğumun çomarları keşke götünüzü sadece sıçmak için kullansanız",
+            "curse_word_list": [
+                "amına",
+                "koduğumun",
+                "çomarları",
+                "götünüzü",
+                "sıçmak"
+            ],
+            "blacklist": [
+                "amına",
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "539",
+            "text": "şu ... boylu ibne herif futbolu bırakmadığı sürece bizden bir bok olmaz. birinden kolay kolay nefret etmem ama buna öyle bir kinliyim ki ömür boyu geçmez. sıfatını siktiğimin ibnesi. sana ettiğimiz bütün küfürler az, yetersiz kalıyor yanında.",
+            "curse_word_list": [
+                "ibne",
+                "bok",
+                "siktiğimin",
+                "ibnesi."
+            ],
+            "blacklist": [
+                "ibne",
+                "herif",
+                "bok",
+                "siktiğimin",
+                "ibnesi"
+            ]
+        },
+        {
+            "key": "542",
+            "text": "bence türkiye senin gibi orospu çocuklarından kurtulmalı orospu kahpenin sıçtığı hain piç",
+            "curse_word_list": [
+                "orospu",
+                "kahpenin",
+                "sıçtığı",
+                "piç"
+            ],
+            "blacklist": [
+                "orospu",
+                "orospu",
+                "kahpenin",
+                "hain",
+                "piç"
+            ]
+        },
+        {
+            "key": "543",
+            "text": "@sarrafoglunazif @ganirepashayeva ulan allahi̇ni̇ siktigimin piç kürdü. götüne mi girdi ha? amını siktigimin kürdü? i̇şte bu yüzden yarragimizin altında kalacaksiniz her daim! hdp yanlısı pkkli piç!",
+            "curse_word_list": [
+                "siktigimin",
+                "piç",
+                "götüne",
+                "amını",
+                "yarragimizin",
+                "pkkli"
+            ],
+            "blacklist": [
+                "ulan",
+                "siktigimin",
+                "piç",
+                "götüne",
+                "amını",
+                "siktigimin",
+                "piç"
+            ]
+        },
+        {
+            "key": "550",
+            "text": "@stevenacook gerçekleri duyunca biyerleriniz can çekişiyor. koduğumun domuzları. acıklı üzücü komik bitli yarrrak kafalı abd piçleri.",
+            "curse_word_list": [
+                "koduğumun",
+                "yarrrak",
+                "piçleri"
+            ],
+            "blacklist": [
+                "koduğumun",
+                "yarrrak"
+            ]
+        },
+        {
+            "key": "551",
+            "text": "@yutonagatomo5 @cocuklukaskim2 ne diyonuz koduğumun japonları? bize sövüyonuzda bizim mi haberimiz yok amk.",
+            "curse_word_list": [
+                "koduğumun",
+                "amk."
+            ],
+            "blacklist": [
+                "koduğumun",
+                "amk"
+            ]
+        },
+        {
+            "key": "558",
+            "text": "@felagundfinrod3 @trakyalicocuk @buocguldurdu halası ve dayısı evlenmişler işte ne uzattın aq. babası annesiyle evlendiğinde dayısı da babasına ben de senin kardeşinle evlenecem demiş kız alış verişi yapmışlar.",
+            "curse_word_list": [
+                "aq."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "560",
+            "text": "a*ına koyduğumun kansız arrapına bak ülkenin belediye başkanına posta koyuyor aklı sıra. konuş lan amk arapı adam nası s*kti ama siziii hahahahahahdhsjdjs",
+            "curse_word_list": [
+                "a*ına",
+                "koyduğumun",
+                "lan",
+                "amk",
+                "s*kti"
+            ],
+            "blacklist": [
+                "lan",
+                "amk"
+            ]
+        },
+        {
+            "key": "561",
+            "text": "@armenia koduğumun ermenileri,1915 geri dönüyor,kollayin götünuzü",
+            "curse_word_list": [
+                "koduğumun",
+                "götünuzü"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "562",
+            "text": "@batuhancolak33 geçen hafta küpe takan adama adam demem topitoştur deyince lincleyip ihtiyar bunak diyordunuz amk dönekleri sizi",
+            "curse_word_list": [
+                "topitoştur",
+                "bunak",
+                "amk",
+                "dönekleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "564",
+            "text": "@kenankaratas_ sikerler bunların hutbelerini aq şarlatan piçleri fakirliği anaları tatsın o.çoçukları",
+            "curse_word_list": [
+                "sikerler",
+                "aq",
+                "şarlatan",
+                "piçleri",
+                "o.çoçukları"
+            ],
+            "blacklist": [
+                "sikerler",
+                "aq"
+            ]
+        },
+        {
+            "key": "565",
+            "text": "10 soru mat acık uclu mu olur gavur muyuz biz aq",
+            "curse_word_list": [
+                "gavur",
+                "aq"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "573",
+            "text": "çocuk dedi hacı sen ne yaptın? bu dedi ukrayna konyağı. yaramaz. e ne alayım dedim? gittik rafa. yüzlerce şişe. bu dedi ermeni bu dedi gürcü konyağı. konyak alacaksan ermeni al. i̇çimden dedim ulen herif akşam üstü akşam üstü buldu bizi. sikiyor. görece diğerlerinden pahalı",
+            "curse_word_list": [
+                "nankorler",
+                "sikiyor."
+            ],
+            "blacklist": [
+                "herif"
+            ]
+        },
+        {
+            "key": "577",
+            "text": "sivilde görsem yüzüne tükürmem burda ben kralım havası yaratıyor amina koduğumun salağı.",
+            "curse_word_list": [
+                "tükürmem",
+                "amina",
+                "koduğumun",
+                "salağı."
+            ],
+            "blacklist": [
+                "amina",
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "585",
+            "text": "bunlar harbi gerizekalı her seferinde kendi ayaklarına sıkıyor çomar sürüsü",
+            "curse_word_list": [
+                "gerizekalı",
+                "çomar"
+            ],
+            "blacklist": [
+                "gerizekalı"
+            ]
+        },
+        {
+            "key": "593",
+            "text": "@fakirinhayati amına koyduğumun ergenleri, bunları 90lara geri göndereceksin analarının amını görecekler.",
+            "curse_word_list": [
+                "amına",
+                "koyduğumun",
+                "amını"
+            ],
+            "blacklist": [
+                "amına",
+                "amını"
+            ]
+        },
+        {
+            "key": "596",
+            "text": "siktir iti yazan sana değil sana cevap veren antiye yazmış. barış fanı zaten.",
+            "curse_word_list": [
+                "siktir",
+                "iti"
+            ],
+            "blacklist": [
+                "siktir"
+            ]
+        },
+        {
+            "key": "597",
+            "text": "@user niyeyse markette kendisinden başka kimse yok ; olan kişide zaten ekrem’i 270 derece açı ile çekiyor ve niyeyse  böyle görüntülendi diyor , ulan nasıl bir kumpasçısın çözemedik ...",
+            "curse_word_list": [
+                "ulan",
+                "kumpasçısın"
+            ],
+            "blacklist": [
+                "ulan"
+            ]
+        },
+        {
+            "key": "601",
+            "text": "@akodgmnhayati31 @bakitoramann en az 3 yeriz gibime geliyor baki son maçta ben giresunsporluyum diyordu amk döneği",
+            "curse_word_list": [
+                "amk",
+                "döneği"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "603",
+            "text": "sinekler çok aptal hayvanlar. düşünsene kanadın var özgürce uçabiliyosun ama o gelmiş daracık bir odanın içine girmiş vızıldıyor ee ölürsün öyle işte amina kodugumun salak hayvanı",
+            "curse_word_list": [
+                "aptal",
+                "amina",
+                "kodugumun",
+                "salak"
+            ],
+            "blacklist": [
+                "aptal",
+                "amina",
+                "salak"
+            ]
+        },
+        {
+            "key": "611",
+            "text": "@emelhatuun evet siktim yabancılarda bakirelik bizdeki gibi tabu değil hele birinde önce anasını siktim sonrada anası kendi eliyle bakire kızını siktirdi kızının kanayan amını yaladı benimle bir daha sikişti",
+            "curse_word_list": [
+                "siktim",
+                "siktirdi",
+                "amını",
+                "sikişti"
+            ],
+            "blacklist": [
+                "siktim",
+                "anasını",
+                "siktim",
+                "anası",
+                "amını"
+            ]
+        },
+        {
+            "key": "613",
+            "text": "atatürk olmasaydı ne güzel 4 kadını kendine köle yapabilecektin di mi aq otuzbirci piçi seni  https://t.co/lapuykbdc9",
+            "curse_word_list": [
+                "otuzbirci",
+                "aq",
+                "piçi"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "614",
+            "text": "siktirsinler amk arapları",
+            "curse_word_list": [
+                "siktirsinler",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "615",
+            "text": "“zamane çocuklari ne bi̇lsi̇n ulan salcano onlara ver pcyi̇ bak i̇nternette taşşaği bol hepsi̇ni̇n”",
+            "curse_word_list": [
+                "ulan",
+                "taşşaği"
+            ],
+            "blacklist": [
+                "ulan"
+            ]
+        },
+        {
+            "key": "617",
+            "text": "@ercep10 eğitimin .mına koydular! . mına koyduğumun cahilleri, şu orospu  sabahtan akşama kadar dövsem içim soğumaz amk.",
+            "curse_word_list": [
+                ".mına",
+                "koyduğumun",
+                "orospu",
+                "amk."
+            ],
+            "blacklist": [
+                "orospu",
+                "amk"
+            ]
+        },
+        {
+            "key": "621",
+            "text": "@riquelme7112 bu lavugu fifada almıstım fenere cok agır aq",
+            "curse_word_list": [
+                "lavugu",
+                "aq"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "623",
+            "text": "@turkcupaylasim aq rumları sizin cahilliginizi skiyim",
+            "curse_word_list": [
+                "aq",
+                "skiyim"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "625",
+            "text": "@hur_salih @leventuzumcu konuşma laan orda evim var boş trol orda yaşıyorum angaval sen senin gibi cahilleri kandırırsın makarnacıya bak aq",
+            "curse_word_list": [
+                "laan",
+                "trol",
+                "angaval",
+                "aq"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "629",
+            "text": "böyle pezevenkleri yaşatmiycan aq madem bakamiycan niye dogurtturuyorsun isgence yapıp sinir atmak içinmi #sessizkalma  #yunusgoectutuklansın  #yunusgoctutuklansın #bebek #izleyemedim #allahbelanıversin",
+            "curse_word_list": [
+                "pezevenkleri",
+                "aq",
+                "#allahbelanıversin"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "630",
+            "text": "@jls_vrn @tele1comtr bitmedi islam la derdiniz amq çocukları, milletin inancına laf atın sonra vay benim anamı siktiler diye ağlarsınız, avradını siktimin piçleri",
+            "curse_word_list": [
+                "amq",
+                "siktiler",
+                "siktimin",
+                "piçleri"
+            ],
+            "blacklist": [
+                "amq",
+                "siktiler",
+                "siktimin"
+            ]
+        },
+        {
+            "key": "637",
+            "text": "@azgnebru2 @hazalilesex siktir git amını ırzını  siktiğimin fahişesi  para bukadarmı kolay kazanılıyor sen versen amını götünü 100 lira etmezsin",
+            "curse_word_list": [
+                "siktir",
+                "amını",
+                "siktiğimin",
+                "fahişesi",
+                "götünü"
+            ],
+            "blacklist": [
+                "siktir",
+                "amını",
+                "siktiğimin",
+                "amını",
+                "götünü"
+            ]
+        },
+        {
+            "key": "644",
+            "text": "amina kodugumun domuzu",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "645",
+            "text": "@doqan_nn @eksitilmisyaz @sultantid2 @fatihycesan4 @batuhancolak33 kes lan orrrrrrr çocuuu seni al surileri evinde besle ananı siktirt amk suriylelerine bıktık beee mal beyin seni",
+            "curse_word_list": [
+                "lan",
+                "siktirt",
+                "amk"
+            ],
+            "blacklist": [
+                "lan",
+                "ananı",
+                "amk",
+                "mal"
+            ]
+        },
+        {
+            "key": "650",
+            "text": "@okyanuso0_ kininizde pisliğinizde boğulun amk ışid cariyesi olsana sen kalti..",
+            "curse_word_list": [
+                "amk",
+                "ışid"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "654",
+            "text": "@michaelmaxi0 @furkannnt20 @futbolarena @btcturk aq salağı  https://t.co/dsgthjdgo0",
+            "curse_word_list": [
+                "aq salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "659",
+            "text": "handa ve karam demeyin artık aq travma oluştu bende bu amk gavurları yüzünden",
+            "curse_word_list": [
+                "aq",
+                "amk",
+                "gavurları"
+            ],
+            "blacklist": [
+                "aq",
+                "amk"
+            ]
+        },
+        {
+            "key": "662",
+            "text": "@sputnik_tr türk yahudisi ne amk. yahudilik din mi ırk mı ülkemi be sikimdir bi karar verin artık..",
+            "curse_word_list": [
+                "amk.",
+                "sikimdir"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "663",
+            "text": "kardeşim köyünüzden kalkıp i̇stanbul’a geliyorsunuz sonra i̇stanbul çok kalabalık falan diye ağlıyorsunuz. gelmeyin şu siktiğim memleketine de kalabalık olmasın. hem beğenmiyor hem de i̇stanbul’a yerleşiyor hele hele habeş maymununa bak.",
+            "curse_word_list": [
+                "siktiğim",
+                "maymununa"
+            ],
+            "blacklist": [
+                "siktiğim"
+            ]
+        },
+        {
+            "key": "677",
+            "text": "@0123naci @zeyinli hdp pkk’nın yönetim kadrosudur. nokta! halk olduğunu düşünerek hdp’ye oy veren de beyinsiz ğödoğlanıdır. aq ‘mun salağı!",
+            "curse_word_list": [
+                "pkk’",
+                "beyinsiz",
+                "aq",
+                "salağı!"
+            ],
+            "blacklist": [
+                "beyinsiz",
+                "aq"
+            ]
+        },
+        {
+            "key": "681",
+            "text": "@naimbaburoglu ama gitmiyor amq picleri!",
+            "curse_word_list": [
+                "amq",
+                "picleri!"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "685",
+            "text": "@user @user lan katalog ürünü, siz sahibinizin yanındasınız,biz memleketimizde. karı gibi kaçtınız,hemde avratları bırakıpta. onları niye almadınız kaçarken? senin o hoca dediğin başgavat ,savcılara askerlere kumpas için karılarınızı kızlarınızı yolluyodu,peygamberi ağzına alma piç!",
+            "curse_word_list": [
+                "lan",
+                "başgavat",
+                "piç!"
+            ],
+            "blacklist": [
+                "lan",
+                "piç"
+            ]
+        },
+        {
+            "key": "687",
+            "text": "@ordinaryusbey sıktır git amk rumu. biz herhalukarda türk takımını destekleriz yarın fenerbahce ye basarilar",
+            "curse_word_list": [
+                "sıktır",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "690",
+            "text": "@adnansahin06 koduğumun zebani̇si̇  i̇slamla uğraşanın yedi sülalesini s*keyim  yani bu acılı günümüzde küfür ettiriyorlar bu anası belli babaları belli olmayanlar",
+            "curse_word_list": [
+                "koduğumun",
+                "zebani̇si̇",
+                "s*keyim"
+            ],
+            "blacklist": [
+                "koduğumun",
+                "skeyim",
+                "anası"
+            ]
+        },
+        {
+            "key": "692",
+            "text": "@user aynen i̇nti̇kam i̇sti̇yor oruspu çocuklari rte babasina şi̇kayet edi̇p hakemli̇ği̇ni̇ bi̇terecek gali̇ba alayinizin anasini si̇keyi̇m si̇zi̇nde ananizi si̇keyi̇m kurulu düzeni̇ni̇zi̇ si̇keyi̇m ak pi̇çler",
+            "curse_word_list": [
+                "oruspu",
+                "si̇keyi̇m",
+                "pi̇çler"
+            ],
+            "blacklist": [
+                "oruspu",
+                "sikeyim",
+                "sikeyim",
+                "sikeyim",
+                "piçler"
+            ]
+        },
+        {
+            "key": "695",
+            "text": "@acr_sa @albyrk_k @misvakcaps sıktır git ammij evladı seni ihanetin kralını 15 temmuzda atm sıralarında gördük amk yunanlari",
+            "curse_word_list": [
+                "sıktır",
+                "ammij",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "696",
+            "text": "yok arkadaş bu anadolunun suyundan içen hakikatten gerizekalı oluyor amk toprağında bir bokluk var rumu da aynı,türkü de yunanlılar da beyinsel olarak anadolu dinine tapanlarla aynı vasatlıkta",
+            "curse_word_list": [
+                "gerizekalı",
+                "amk",
+                "bokluk"
+            ],
+            "blacklist": [
+                "gerizekalı",
+                "amk"
+            ]
+        },
+        {
+            "key": "715",
+            "text": "@ataulak amq pezevenki sapik pedofili yobaz",
+            "curse_word_list": [
+                "amq",
+                "pezevenki",
+                "sapik",
+                "pedofili",
+                "yobaz"
+            ],
+            "blacklist": [
+                "amq",
+                "pezevenki"
+            ]
+        },
+        {
+            "key": "720",
+            "text": "amina koydumun arablari hun schreeuwen soms kk erg amq yetter lan",
+            "curse_word_list": [
+                "amina",
+                "amq",
+                "lan",
+                "koydumun"
+            ],
+            "blacklist": [
+                "amina",
+                "amq",
+                "lan"
+            ]
+        },
+        {
+            "key": "724",
+            "text": "@mehdennis hay kolarovunuza koyayım amk ne kolmuş size gire gire getirtemediniz amk dürzüleri gençlere yönelin gençlere hiç mi insan hatasından ders almaz amk sığırları bi siktir git artık",
+            "curse_word_list": [
+                "amk",
+                "dürzüleri",
+                "siktir"
+            ],
+            "blacklist": [
+                "koyayım",
+                "amk",
+                "amk",
+                "amk",
+                "siktir"
+            ]
+        },
+        {
+            "key": "727",
+            "text": "@bbonewstr ulan siktiğimin pezevenkleri oksijen israfı ülke kendinizde yeyin amk hem biz hem de hayvanlar kurtulur puştlar şu hayvanları rahat bırakın artık lan oruspu çocukları sizin ben ta olmayan beyninize sokim keşke sizdeki virüs salgını tekrar başlasa yada başınıza çok kötü olaylar",
+            "curse_word_list": [
+                "ulan",
+                "siktiğimin",
+                "pezevenkleri",
+                "amk",
+                "puştlar",
+                "lan",
+                "oruspu",
+                "sokim"
+            ],
+            "blacklist": [
+                "ulan",
+                "siktiğimin",
+                "amk",
+                "lan",
+                "oruspu",
+                "sokim"
+            ]
+        },
+        {
+            "key": "728",
+            "text": "@bbosports bırak şu kadını da maçlara odaklan biraz aq.. ergen ergen takılıyor kadınla ya.",
+            "curse_word_list": [
+                "aq.."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "734",
+            "text": "@user ne utanmaz arlanmaz adamlarsınız !! iktidar götü yalayan gazeteler konu değil koç la görüşmüş olay oldu. cnn türk başkanının devlet uçağıyla izlanda maçına gitmesine neden sesiniz çıkmıyor. ahlaksızlar.",
+            "curse_word_list": [
+                "götü",
+                "ahlaksızlar"
+            ],
+            "blacklist": [
+                "götü"
+            ]
+        },
+        {
+            "key": "740",
+            "text": "@aaaaaasdsd1 @kurtkarabekir @alibabacan sie amk türk ü bu kadar çaresiz bırakan g.tler. türk kendi ülkesinde daha şehirden şehire gitmeye korkuyor. elin gavuru ülkesinden türkiye ye gelip yiyip içip sıçıp gidiyor bedavaya.",
+            "curse_word_list": [
+                "sie",
+                "amk",
+                "g.tler.",
+                "gavuru",
+                "sıçıp"
+            ],
+            "blacklist": [
+                "sie",
+                "amk"
+            ]
+        },
+        {
+            "key": "752",
+            "text": "@sherlockcomari @bulentuslu1903 siz çok başarı elde ediyorsunuz sanki amk piçi",
+            "curse_word_list": [
+                "amk",
+                "piçi"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "756",
+            "text": "bazılarına çocukken aşırı terbiyesizlik ve arsızlıklarından dolayı anaları babaları ceza vermemiş ya da dövmemiş. i̇şte bu yüzden birçok şerefsiz ve embesille de uğraşıp duruyoruz. bazıları köteği hak ediyor aq...",
+            "curse_word_list": [
+                "embesille",
+                "şerefsiz",
+                "aq..."
+            ],
+            "blacklist": [
+                "şerefsiz",
+                "aq"
+            ]
+        },
+        {
+            "key": "757",
+            "text": "@barannkeskin @zeineres sen nesin orrospu çocuğu avrupa piçi",
+            "curse_word_list": [
+                "orrospu",
+                "piçi"
+            ],
+            "blacklist": [
+                "orrospu"
+            ]
+        },
+        {
+            "key": "768",
+            "text": "#çarşamba #hirsizchpkk    chp, 1884 yılında makedonya'da temelleri atılan, karma(makedon/sırp/arnavut vb) işi̇d vari haçlı terör örgütünün türkiye kolu, i̇tti̇hat terakki'in  devamıdır.      @user @user @user @user @user",
+            "curse_word_list": [
+                "işi̇d"
+            ],
+            "blacklist": [
+                "işid"
+            ]
+        },
+        {
+            "key": "775",
+            "text": "amk #suriyelileri'ni ne zaman göndereceksiniz sayın sorospu çocukları?",
+            "curse_word_list": [
+                "sorospu",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "777",
+            "text": "ya şu sokağa çıkan, selaya şükreden, allahüekber diye slogan atarak, darbeye hayır diyen, beyinsiz amk çomarları beni bi takipten çıksın",
+            "curse_word_list": [
+                "beyinsiz",
+                "amk",
+                "çomarları"
+            ],
+            "blacklist": [
+                "beyinsiz",
+                "amk"
+            ]
+        },
+        {
+            "key": "778",
+            "text": "@buseplan bizim vatandaşlarımız sokakta onun bunun karısına, kızına bakarlar zinanın tillahını yaparlar ama gusül abdesti almadan da sokağa çıkmazlar amk. sonra milletin namus bekçisi olurlar kıt akıllarını, zihniyetini siktiklerim. amına koyduğumun sözde müslümanları.",
+            "curse_word_list": [
+                "amk.",
+                "siktiklerim.",
+                "amına"
+            ],
+            "blacklist": [
+                "amk",
+                "amına"
+            ]
+        },
+        {
+            "key": "779",
+            "text": "bu koduğumun ülkesinde sessizce kahve içilecek tek bir mekan oda in yok!bağıra bağıra konuşan mı dersin telefonda saatlerce dedikodu yapan mı dersin geri geri giden coca cola kamyonunun dikat sensörü mü dersin!alayınızın varoluşunu zikiim !alayınızın! orrospuçocukları!",
+            "curse_word_list": [
+                "koduğumun",
+                "orrospuçocukları!",
+                "zikiim"
+            ],
+            "blacklist": [
+                "koduğumun",
+                "zikiim"
+            ]
+        },
+        {
+            "key": "780",
+            "text": "@efehanertug nekadar arap ve turk varsa ananin amini yarsın amina koydugumun ermenisi orrospunun çıkardığı",
+            "curse_word_list": [
+                "amini",
+                "orrospunun"
+            ],
+            "blacklist": [
+                "ananin",
+                "amini",
+                "amina"
+            ]
+        },
+        {
+            "key": "782",
+            "text": "amına kodumun salaklarının haber için kullandığı fotoğrafa bak. onu geçtim, tsk'nın özel birimlerinin imkan ve kabiliyetlerini saymaktan fazla bir şey yapmamış yunan \"istihbaratçı\". gözünü izanını siktiğim, insan az açar da talimname okur.",
+            "curse_word_list": [
+                "amına",
+                "kodumun",
+                "salaklarının",
+                "siktiğim,"
+            ],
+            "blacklist": [
+                "amına",
+                "kodumun",
+                "siktiğim"
+            ]
+        },
+        {
+            "key": "787",
+            "text": "@burak24294572 @veliagbaba ver numaranı,gündüz özelden arayacağım. senin gibi orrospu çocuklarına numara mı vereceğim bir de? m.q sütü bozuğu. yorum mu okumuyorsun şerefini si**tiğimin piçi.",
+            "curse_word_list": [
+                "orrospu",
+                "m.q",
+                "si**tiğimin",
+                "piçi."
+            ],
+            "blacklist": [
+                "orrospu"
+            ]
+        },
+        {
+            "key": "792",
+            "text": "@silivriliktweet kız çıkmış birde kanser hücresi diyor amk. ulan aq cahili aç iki tane ilmihal oku, karsidakini cahil yobaz gerici goruyorsan bile ac bir oku ki karsidaki cahil yobaz gerici neye inaniyormus bu gor bir ogren. lan hadi ilmihalde okuma ac iki sayfa meal oku iki kelam birsey öğren",
+            "curse_word_list": [
+                "amk",
+                "ulan",
+                "aq",
+                "yobaz"
+            ],
+            "blacklist": [
+                "amk",
+                "ulan",
+                "aq",
+                "lan"
+            ]
+        },
+        {
+            "key": "796",
+            "text": "atama  bazen suç buluyorum kesin yunanlari fransızlari velan tam denize dökemedi arada ibneleri picleri bıraktı ki aramızda kaldı çünkü ülkede bu kadar o çocuğu olması mümkün değil boşuna yaşıyorsunuz ölün aq   #atatürkatamızdeğil #atam  #ataturk",
+            "curse_word_list": [
+                "ibneleri",
+                "picleri",
+                "aq"
+            ],
+            "blacklist": [
+                "ibneleri",
+                "aq"
+            ]
+        },
+        {
+            "key": "797",
+            "text": "her zaman ki gibi fragmandan bi tık sahne dışında birşey göremedik 🤦‍♀️ malduy yasemin anası volkan şrfsizi ne zaman son bulacak acaba aq bıktık bıktık onlar yerine süt kardeş kara ibo izlesek daha çok seyir keyfi alırdık  #yüzük",
+            "curse_word_list": [
+                "şrfsizi"
+            ],
+            "blacklist": [
+                "anası",
+                "aq"
+            ]
+        },
+        {
+            "key": "804",
+            "text": "tam oruçlusun amq fahişesi",
+            "curse_word_list": [
+                "amq",
+                "fahişesi"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "805",
+            "text": "eheuehehehheueheue amk salağı düştü diyip daha koşmanın tadı bambaşka ya",
+            "curse_word_list": [
+                "amk",
+                "salağı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "806",
+            "text": "evet arkadaşlar şu amina kodugumun sitesinde aynı şakayı defalarca yapmayın bi defa yapıldı güldük eğlendik bitti zaten taymın anası sikilmiş amina kodugumun canı yüzünden",
+            "curse_word_list": [
+                "kodugumun",
+                "sikilmiş",
+                "amina"
+            ],
+            "blacklist": [
+                "amina",
+                "anası",
+                "sikilmiş",
+                "amina"
+            ]
+        },
+        {
+            "key": "807",
+            "text": "@kenan_kalan @_ilk_er senin gibi anası sikişenler yüzünden millet kendi fikrini bile söyleyemiyor illa ki senin türevinden bir orrospu çocuğu çıkıp anasını bana siktiriyor işte.",
+            "curse_word_list": [
+                "sikişenler",
+                "orrospu",
+                "siktiriyor"
+            ],
+            "blacklist": [
+                "anası",
+                "orrospu",
+                "anasını",
+                "siktiriyor"
+            ]
+        },
+        {
+            "key": "808",
+            "text": "lan siktir git hilali haçı götüne soktuğum piçleri amını yurdunu siktiğim cocuklarına bak hele anasının amından çıktığı güne lanet edilesice orospu çocukları sizi #2023haçlahilalinseçimi",
+            "curse_word_list": [
+                "lan",
+                "siktir",
+                "götüne",
+                "soktuğum",
+                "piçleri",
+                "amını",
+                "siktiğim",
+                "amından",
+                "orospu"
+            ],
+            "blacklist": [
+                "lan",
+                "siktir",
+                "götüne",
+                "amını",
+                "siktiğim",
+                "anasının",
+                "orospu"
+            ]
+        },
+        {
+            "key": "810",
+            "text": "@jk_01_1997 şu btse 3. cinsiyet diyen ammına koduğumun fahişeleri yasak getircez demişler sabah gazatesinde yasak geleceğini zannetmiyorum",
+            "curse_word_list": [
+                "ammına",
+                "koduğumun",
+                "fahişeleri"
+            ],
+            "blacklist": [
+                "koduğumun"
+            ]
+        },
+        {
+            "key": "811",
+            "text": "@helbest20753988 aryan halklarıda senide üst üste koyup eşşeklere siktiririm amk lavuğu. bave tennim.",
+            "curse_word_list": [
+                "siktiririm",
+                "amk",
+                "lavuğu."
+            ],
+            "blacklist": [
+                "siktiririm",
+                "amk"
+            ]
+        },
+        {
+            "key": "813",
+            "text": "arap sevici diyanet başkanımız... kendi vatandaşlarına bir öğün yardım yapmayan türkiye diyanet vakfı, işi̇d militanlarının toplandığı i̇dlip'te 100 konut yapacakmış... https://t.co/pek4ki6dwj",
+            "curse_word_list": [
+                "işi̇d"
+            ],
+            "blacklist": [
+                "işid"
+            ]
+        },
+        {
+            "key": "817",
+            "text": "@user @user yalancı, üçkağıtçı, iftiracı, vicdansız, insafsız, kalpsiz pezevenklere yalancı, üçkağıtçı, iftiracı, vicdansız, insafsız, kalpsiz pezevenk diyememenin dayanılmaz ağırlığı ile sukut ediyorum.",
+            "curse_word_list": [
+                "üçkağıtçı",
+                "pezevenklere",
+                "pezevenk"
+            ],
+            "blacklist": [
+                "pezevenk"
+            ]
+        },
+        {
+            "key": "819",
+            "text": "@kratayd04379241 @tugibabaa @yemeksepeti ciddiye almıyorum deyip cevap yorumumun altına yorum yazmışsın aw salağı işte sevmiyosan sg ikile kardesim mizahınıza sokim",
+            "curse_word_list": [
+                "salağı",
+                "sg",
+                "sokim"
+            ],
+            "blacklist": [
+                "sokim"
+            ]
+        },
+        {
+            "key": "820",
+            "text": "amqq suriyelisi türkçe konuşmayı bilmez gelip bu ülkeye millete hizmet etmiş insanın arkasından sallarsınız. sen siktir olup git köyüne dön amq aveli seni. konuşmayı bilmez hebele hübele yaparsın anca tipine kodumun vara varası seni  https://t.co/rxasdtqe5m",
+            "curse_word_list": [
+                "amqq",
+                "siktir",
+                "amq",
+                "aveli"
+            ],
+            "blacklist": [
+                "siktir",
+                "amq",
+                "kodumun"
+            ]
+        },
+        {
+            "key": "823",
+            "text": "@fifalafiestaa @erdalqules @ata_erkil @haskologlu hayvanların yaşama yeri sokak mı aq. 100 200 yıl önce şehirler yaygın değilken nerede yaşıyorlardı bu hayvanlar?",
+            "curse_word_list": [
+                "aq."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "826",
+            "text": "@konyaspor oha amq ümraniye sapığı yönetseydi  https://t.co/9yon85yq6l",
+            "curse_word_list": [
+                "amq",
+                "oha"
+            ],
+            "blacklist": [
+                "amq"
+            ]
+        },
+        {
+            "key": "827",
+            "text": "bakkaldan bakan yap ve beceriksizliginizle ulkeyi kaosa surukle sus pussunuz ne oldu? orrospu çocuğu selefi müslümanlar.anasını siktiniz hayatların cennete gidecez diye cehennem ettiniz atatürk ün ve türkün yurdunu ...şerefini siktiğim arrap boku yiyen dindarları.",
+            "curse_word_list": [
+                "orrospu",
+                "siktiniz",
+                "siktiğim",
+                "boku"
+            ],
+            "blacklist": [
+                "orrospu",
+                "siktiğim",
+                "boku"
+            ]
+        },
+        {
+            "key": "832",
+            "text": "bu yüzden ağlıyorlar işsiziz diye. elinde yarım sayfa notla sınava giriyor gecelere kadar kafelerde sürtüyor sonra neden işsizim hadi siktir.. bölümüyle ilgili bi bok bilmeden mezun oluyor çoğu acı ama gerçek",
+            "curse_word_list": [
+                "siktir..",
+                "bok"
+            ],
+            "blacklist": [
+                "siktir",
+                "bok"
+            ]
+        },
+        {
+            "key": "833",
+            "text": "@john_constantis @rakamvezaman elon twit atsa 50 olcak aq salağı",
+            "curse_word_list": [
+                "aq",
+                "salağı"
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "839",
+            "text": "@cem_oezdemir @the_linde_group .ne di̇yorsun lan am*na koduğumun tokatin yüz karasi hristi̇yan ermeni̇ domuzu, g*ötveren  https://t.co/kaao9m2qvy",
+            "curse_word_list": [
+                "lan",
+                "am*na",
+                "koduğumun",
+                "g*ötveren"
+            ],
+            "blacklist": [
+                "lan",
+                "amna",
+                "koduğumun",
+                "götveren"
+            ]
+        },
+        {
+            "key": "849",
+            "text": "#muhammednurtutuklansın bide suriyeli imiş piçe bak üniversiteyi bombalamak istiyormuş hemen sınırdışı edilmeli bu piç",
+            "curse_word_list": [
+                "piçe",
+                "piç"
+            ],
+            "blacklist": [
+                "piç"
+            ]
+        },
+        {
+            "key": "851",
+            "text": "@loveyanitaytan çocuk yüzüne bok sürse yine yakışıklı amk pezevenkleri bi bitmediler dünden beri",
+            "curse_word_list": [
+                "bok",
+                "amk",
+                "pezevenkleri"
+            ],
+            "blacklist": [
+                "bok",
+                "amk"
+            ]
+        },
+        {
+            "key": "853",
+            "text": "@atavratfelipe amk yamuk bacaklı bi bokuma yaramayan taylanı 96 dk oynadı mostafa oyunun anası sikilince girdi senin ben torent kadar yedi sülaleni",
+            "curse_word_list": [
+                "amk",
+                "bokuma",
+                "sikilince"
+            ],
+            "blacklist": [
+                "amk",
+                "anası",
+                "sülaleni"
+            ]
+        },
+        {
+            "key": "855",
+            "text": "sonradan kadın olmuş lavugu kabuk etmisler kadın kategorisinde yaristiriyorlar. ee haliyle fark atacak tabi. sonradan estetikle kadın yapsa ne olur kendini anatomik olarak erkek aq. civisi cıktı bu islerin",
+            "curse_word_list": [
+                "lavugu",
+                "aq."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "869",
+            "text": "yunan galip gelseydi ilk önce bu islamcıları sikerdi haberleri yok be amk salağı elin hristiyanı yahudisi sana secde yaptırır mı",
+            "curse_word_list": [
+                "sikerdi",
+                "amk",
+                "salağı"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "876",
+            "text": "@t24comtr japonyada idam varmıyıdı aq. siktiğimin japonları",
+            "curse_word_list": [
+                "aq.",
+                "siktiğimin"
+            ],
+            "blacklist": [
+                "aq",
+                "siktiğimin"
+            ]
+        },
+        {
+            "key": "887",
+            "text": "reelde yada sanalda sınırsız unutulmaz dadikalar yasamak isteyn azgın kadınlar dm atın      sexting   porno   sikiş   porn   türbanlı   sikişelim   sik   liseli   çıtır   azdım   seksting   türkçe ifşa   türk pornosu   sikişmek    boşalmak   sohbet   cinsellik   azdım   bekar   gizli   seksi   sanalseks   sanal sex   sakso   azgın",
+            "curse_word_list": [
+                "porno",
+                "sikiş",
+                "porn",
+                "sikişelim",
+                "sik",
+                "seksting",
+                "pornosu",
+                "sikişmek",
+                "sanalseks",
+                "sex",
+                "sakso"
+            ],
+            "blacklist": [
+                "porno",
+                "sikiş",
+                "sik",
+                "azdım",
+                "azdım",
+                "sex",
+                "sakso"
+            ]
+        },
+        {
+            "key": "894",
+            "text": "bayram günü burger kingde patates yiyip story atan kızların kokusunu alabiliyorum ıyyy ıyyyyy amina kodugumun ergenleri",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "898",
+            "text": "@ftninevladi amk şansli pezevenkleri",
+            "curse_word_list": [
+                "amk",
+                "pezevenkleri"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "899",
+            "text": "bu piç kurusu kaçarken bizim kız da gaza mı geldi ne olduysa, bunun arkasından koştu. haydaaa.... köşeyi döndüler, bir çığlık. arka bahçe kapısından girip ön kapıya doğru bir koşuyorum ama, puştu direkt öldürmeye gidiyorum artık. arabanın altına girmişler. hırsla taş attım.",
+            "curse_word_list": [
+                "piç",
+                "puştu"
+            ],
+            "blacklist": [
+                "piç"
+            ]
+        },
+        {
+            "key": "905",
+            "text": "ortaokulda hoslandigim kisi piercing taktigimi gorunce amina kodugumun ergeni demisti ve gülme krizine girmistim",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "906",
+            "text": "@selamdemira @bpthaber seloyu aday olarak görmek nasıl bir kafadır amk 🥵 bu arada selonun anası s*kik",
+            "curse_word_list": [
+                "amk",
+                "s*kik"
+            ],
+            "blacklist": [
+                "amk",
+                "anası",
+                "skik"
+            ]
+        },
+        {
+            "key": "915",
+            "text": "yeter anladik amina kodugumun aptali gariban bi anadolu cocugusun her gun kuru fasulye pilav yiyosun tamam ulan tum favlar etkilesimler senin olsun yeter ki sus amkk suss",
+            "curse_word_list": [
+                "amina",
+                "kodugumun",
+                "aptali",
+                "ulan",
+                "amkk"
+            ],
+            "blacklist": [
+                "amina",
+                "ulan"
+            ]
+        },
+        {
+            "key": "916",
+            "text": "bayramını kutla o lavuğun adını orada anmak zorunda mısın? apo denen lavuk adada hakkını savunan salaklardan çok daha fazla lüks içinde yaşıyor amk sana mı düştü o lavuğu savunmak. lan adam bi kere bülent arıç denen akp'li adamla sınıf arkadaşı amk.",
+            "curse_word_list": [
+                "lavuğun",
+                "lavuk",
+                "salaklardan",
+                "amk",
+                "lavuğu",
+                "lan"
+            ],
+            "blacklist": [
+                "lavuk",
+                "amk",
+                "lan",
+                "amk"
+            ]
+        },
+        {
+            "key": "917",
+            "text": "@syndex @dikencomtr bende siyom bu amina kodugumun domuzu kendi cinsini nasilda biliyor",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "919",
+            "text": "@vaziyetcomtr sanane amk, sen nasıl sana karışılmasını istemiyorsan sende başka insanlara seninle aynı din ve ya aynı görüşte değil diye karışamazsın.. amk yobaz piçleri",
+            "curse_word_list": [
+                "amk",
+                "yobaz",
+                "piçleri"
+            ],
+            "blacklist": [
+                "amk",
+                "amk"
+            ]
+        },
+        {
+            "key": "920",
+            "text": "kazandığın savaş yok amına kodugumun çocuğu. berkani eledin sıra barışa mı geldi ahahha",
+            "curse_word_list": [
+                "amına",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amına"
+            ]
+        },
+        {
+            "key": "935",
+            "text": "@drmemo29236571 @etkili_insan @cemkucuk55 anasını siktigimin piçi, iddiayı sen atıyorsun sen ispatlayacaksın, orrospu çocukluğu kanınıza işlemiş,kalkmış bana savunuyorsun diyor süzme piç. ananızı gotten sikmeye devam size bu yakışır..",
+            "curse_word_list": [
+                "siktigimin",
+                "piçi",
+                "orrospu",
+                "piç",
+                "gotten",
+                "sikmeye"
+            ],
+            "blacklist": [
+                "anasını",
+                "siktigimin",
+                "orrospu",
+                "piç",
+                "gotten"
+            ]
+        },
+        {
+            "key": "936",
+            "text": "burda erkek olup kadın ismi ile takılan amını bacısını karısını ecdadını siktiğimin lavukları siktirin gidin orosbunun piçleri",
+            "curse_word_list": [
+                "amını",
+                "siktiğimin",
+                "lavukları",
+                "siktirin",
+                "orosbunun",
+                "piçleri"
+            ],
+            "blacklist": [
+                "amını",
+                "ecdadını",
+                "siktiğimin"
+            ]
+        },
+        {
+            "key": "940",
+            "text": "@dedikodubjk 3 ay sonra yeni babaları olacak adam gelecek haberleri yok aq...",
+            "curse_word_list": [
+                "aq..."
+            ],
+            "blacklist": [
+                "aq"
+            ]
+        },
+        {
+            "key": "945",
+            "text": "fb transfer haberlerinden derin rahatsızlık duyuyorum ali koç sana son çağrımdır aklını başına devşir amk dürzüsü",
+            "curse_word_list": [
+                "amk",
+                "dürzüsü"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "948",
+            "text": "yüzsüz hain suriyeli... akp'nin mazlum ensar mağdur nidalarıyla ülkeye doldurduğu, türk halkının vergileriyle beslediği suriyeli https://t.co/l2jx2wu6gg",
+            "curse_word_list": [
+                "hain",
+                "yüzsüz"
+            ],
+            "blacklist": [
+                "hain"
+            ]
+        },
+        {
+            "key": "960",
+            "text": "@veryans31 @oksimuu amk salağı yukardaki giften ne bok olduğun belli kızlara laf atıp kızların götünün peşinden ayrılmaman kadar acınası bi durum yok siktir git yazma",
+            "curse_word_list": [
+                "amk",
+                "salağı",
+                "bok",
+                "götünün",
+                "siktir"
+            ],
+            "blacklist": [
+                "amk",
+                "bok",
+                "siktir"
+            ]
+        },
+        {
+            "key": "963",
+            "text": "ferdiyi oynatmayacaksan hocam kirala. her hocanın sikik egolarından bıktık a.q.",
+            "curse_word_list": [
+                "sikik",
+                "a.q."
+            ],
+            "blacklist": [
+                "sikik",
+                "aq"
+            ]
+        },
+        {
+            "key": "964",
+            "text": "bu denyo ne türk ne de suriyeli olsa olsa anası babası belli olmayan piç oğlu piç 🤬🤬🤬🤬🤬 https://t.co/gehxgpbzdm",
+            "curse_word_list": [
+                "piçç"
+            ],
+            "blacklist": [
+                "anası",
+                "piç",
+                "piç"
+            ]
+        },
+        {
+            "key": "968",
+            "text": "artik su amina kodugumun sinavlari bitse de kendime bi gelsem neler yapicam neler varya ooof offf",
+            "curse_word_list": [
+                "amina",
+                "kodugumun"
+            ],
+            "blacklist": [
+                "amina"
+            ]
+        },
+        {
+            "key": "974",
+            "text": "katil mahluklar. utanmadan çocuğun orada ne işi var diye soruyorlar amk piçlari ya. bi de efendi efendi takılıyor burada alçak!",
+            "curse_word_list": [
+                "mahluklar.",
+                "amk",
+                "piçlari"
+            ],
+            "blacklist": [
+                "amk"
+            ]
+        },
+        {
+            "key": "975",
+            "text": "amina kodugumun cocugu gerizekali amcik yarin napcan diye sormak ne karantinada napabilirim her gun yatiyom iste",
+            "curse_word_list": [
+                "amina",
+                "kodugumun",
+                "gerizekali",
+                "amcik"
+            ],
+            "blacklist": [
+                "amina",
+                "gerizekali",
+                "amcik"
+            ]
+        },
+        {
+            "key": "976",
+            "text": "şu kodumun sitesine günlerce giremeyecek kadar meşgul olduğumda bütün sosyal medya hesaplarımı kapatıcam amk.",
+            "curse_word_list": [
+                "amk."
+            ],
+            "blacklist": [
+                "kodumun",
+                "amk"
+            ]
+        },
+        {
+            "key": "986",
+            "text": "pudra şekeri çekmiş orrospu çocuğu yunan dölleri yine.atam yunanlıların hepsini dökememişsin.arkada çok piçleri kalmış. #kemalizmiyıkacaz",
+            "curse_word_list": [
+                "orrospu",
+                "piçleri"
+            ],
+            "blacklist": [
+                "orrospu"
+            ]
+        },
+        {
+            "key": "998",
+            "text": "pedri lavuğu ne gol atmış amk tam zajc abimin klasında",
+            "curse_word_list": [
+                "lavuğu",
+                "amk"
+            ],
+            "blacklist": [
+                "amk"
             ]
         }
     ]
