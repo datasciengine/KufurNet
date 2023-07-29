@@ -1,6 +1,8 @@
 # KufurNet
 
-Küfür, hakaret, sövgü, ofansif cümleleri başarılı şekilde tespit edebilmek için oluşturulmuş bir repodur. Küfür tespit konusunda repoları ve kara listeleri incelediğimizde yapılan çalışmaların oldukça yetersiz, maliyetli, başarısızlığı ve kabul edilemez hataları bu reponun ortaya çıkmasına vesile oldu. 
+Küfür, hakaret, sövgü, ofansif cümleleri başarılı şekilde tespit edebilmek için oluşturulmuş bir repodur. Küfür tespit konusunda repoları ve kara listeleri incelediğimizde yapılan çalışmaların oldukça yetersiz, maliyetli, başarısız ve kabul edilemez hatalarla dolu olduğunu gördük ve bu repoyu oluşturmaya karar verdik. 
+
+Repoyu dilediğiniz gibi API olarak kullanabilir ve konteyner servis olarak koşturabilirsiniz.
 
 <br>
 
