@@ -1,7 +1,7 @@
 {
-    "Total Count": 1000,
-    "Offensive Correct Percentage": 71.6,
-    "Offensive Incorrect Percentage": 28.4,
+    "Total curse words:": 622,
+    "Correctly predicted curses: ": 338,
+    "Accuracy": 54.340836012861736,
     "Mismatches": [
         {
             "key": "5",
