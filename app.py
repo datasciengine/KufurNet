@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from kufurnet.kufur_net import KufurNet
+from kufurnet import KufurNet
 
 import uvicorn
 
@@ -7,14 +7,13 @@ app = FastAPI()
 kufurnet = KufurNet()
 
 
-@app.post("/profanity_checker")
-async def profanity_checker(comment: dict):
+@app.post("/analyze_profanity")
+async def analyze_profanity(text: dict):
     """
-    :param comment: {'comment' : 'hay amk'}
+    :param text: {'text' : 'hay amk'}
     :return:
     """
-
-    return kufurnet.get_swears(comment)
+    return kufurnet.analyze(text)
 
 
 if __name__ == "__main__":
