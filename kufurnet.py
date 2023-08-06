@@ -5,7 +5,9 @@ from config.configurator import Configurator
 class KufurNet:
     def __init__(self):
         self.cfg = Configurator()
-        self.black_words = self.cfg.get_black_words()
+        self.black_starts = self.cfg.get_start_words()
+        self.black_in = self.cfg.get_in_words()
+        self.black_exact = self.cfg.get_exact_words()
         self.stop_words = self.cfg.get_stop_words()
 
     def analyze(self, text: dict):
@@ -14,9 +16,21 @@ class KufurNet:
         if len(words):
             black_list = []
             for word in words:
-                if word in self.black_words:
-                    black_list.append(word)
 
+                if word in self.black_exact:
+                    black_list.append(word)
+                    # print("Exact ->", word)
+                    break
+                for black in self.black_in:
+                    if black in word:
+                        black_list.append(word)
+                        # print("In ->", word)
+                        break
+                for black in self.black_starts:
+                    if word.startswith(black):
+                        black_list.append(word)
+                        # print("Starts ->", word)
+                        break
             return {
                 "status": True,
                 "result": {
