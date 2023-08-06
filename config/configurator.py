@@ -15,6 +15,15 @@ class Configurator:
     def get_black_words(self):
         return self.load_txt(self.cfg["black_words_path"])
 
+    def get_start_words(self):
+        return self.load_txt(self.cfg["starts_words_path"])
+
+    def get_in_words(self):
+        return self.load_txt(self.cfg["in_words_path"])
+
+    def get_exact_words(self):
+        return self.load_txt(self.cfg["exact_words_path"])
+
     @staticmethod
     def load_json(path, encoding="utf-8"):
         with open(path, encoding=encoding) as file:
