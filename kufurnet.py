@@ -1,5 +1,5 @@
 import re
-from config.configurator import Configurator
+from configurator import Configurator
 
 
 class KufurNet:
@@ -10,35 +10,26 @@ class KufurNet:
         self.black_exact = self.cfg.get_exact_words()
         self.stop_words = self.cfg.get_stop_words()
 
-    def analyze(self, text: dict):
-        text = text["text"]
+    def ml_anlayze(self, text: str):
+        # TODO : This section will be defined by APO.
+        pass
+
+    def filter_analyze(self, text: str):
+
         words = self.get_words(text)
         if len(words):
             black_list = []
             for word in words:
-
                 if word in self.black_exact:
                     black_list.append(word)
-                    # print("Exact ->", word)
-                    break
                 for black in self.black_in:
                     if black in word:
                         black_list.append(word)
-                        # print("In ->", word)
-                        break
                 for black in self.black_starts:
                     if word.startswith(black):
                         black_list.append(word)
-                        # print("Starts ->", word)
-                        break
-            return {
-                "status": True,
-                "result": {
-                    "is_black": len(black_list) > 0,
-                    "black_score": round((len(black_list) / len(words)), 2),
-                    "black_list": black_list
-                }
-            }
+            return len(black_list) > 0, round((len(black_list) / len(words)), 2), black_list
+
         return {
             "status": True,
             "result": {
@@ -61,3 +52,22 @@ class KufurNet:
         words = text.split(" ")
         words = [word for word in words if len(word) > 1]
         return [word for word in words if word not in self.stop_words]
+
+    def validate_input(self, input_message):
+
+        if not isinstance(input_message, dict):
+            raise TypeError(f"Input message should be dict but you gave {type(input_message)} type.")
+
+        if "text" not in input_message.keys():
+            raise KeyError(f"Input message does not contain key variable as 'text'.")
+
+        if len(input_message.keys()) != 1:
+            raise ValueError(f"Length of item should be 1, but you gave {len(input_message.keys())}.")
+
+        if len(input_message["text"]) <= 2:
+            raise ValueError(
+                f"Please check min character constraint in the message. Lower limit is 2 char. Your message has {len(input_message['text'])} char.")
+
+        if len(input_message["text"]) >= 200:
+            raise ValueError(
+                f"Please check max character constraint in the message. Upper limit is 200 char. Your message has {len(input_message['text'])} char.")
