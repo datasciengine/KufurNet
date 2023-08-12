@@ -6,7 +6,7 @@ class Configurator:
 
     """
 
-    def __init__(self, path="config/config.json"):
+    def __init__(self, path="config.json"):
         self.cfg = self.load_json(path)
 
     def get_stop_words(self):
