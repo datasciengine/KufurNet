@@ -5,7 +5,9 @@ Küfür, hakaret, sövgü, ofansif cümleleri başarılı şekilde tespit edebil
 Repoyu dilediğiniz gibi API olarak kullanabilir ve konteyner servis olarak koşturabilirsiniz.
 
 <br>
+
 ![kufurnet fw](https://github.com/datasciengine/KufurNet/assets/90087613/43e12bcf-b26d-4009-b135-9259d1db44a3)
+
 <br>
 
 <b> FastAPI ile Servis Olarak Kullanım </b>
