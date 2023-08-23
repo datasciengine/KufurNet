@@ -1,2 +1,7 @@
 fastapi==0.100.0
 uvicorn==0.23.1
+pandas
+matplotlib
+joblib
+seaborn
+scikit-learn

@@ -1,5 +1,7 @@
 import re
 from configurator import Configurator
+from load_model import LoadModel
+from profanityfilter import ProfanityFilter
 
 
 class KufurNet:
@@ -10,9 +12,15 @@ class KufurNet:
         self.black_exact = self.cfg.get_exact_words()
         self.stop_words = self.cfg.get_stop_words()
 
-    def ml_anlayze(self, text: str):
-        # TODO : This section will be defined by APO.
-        pass
+    def ml_analyze(self, text: str):
+        models = LoadModel().get_models()
+        threshold = 1  # Eşik değeri
+        profanity_filter = ProfanityFilter(models, threshold)
+
+        prediction = profanity_filter.predict(text)
+        print(prediction)
+
+        return prediction
 
     def filter_analyze(self, text: str):
 
