@@ -31,7 +31,7 @@ async def check_profanity(input_message: dict):
         return {
             "status": True,
             "result": {"is_black": True if prediction else False,
-                       "score": 0,
+                       "score": 100 if prediction else 0,
                        "black_list": []
                        }}
 
